@@ -1,10 +1,17 @@
 package com.hvdbs.codewars.javatask;
 
+import com.hvdbs.codewars.statgenerator.CodewarsInfo;
+import com.hvdbs.codewars.statgenerator.enums.Difficulty;
+
 import java.util.Arrays;
 import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
+@CodewarsInfo(
+        difficulty = Difficulty.EIGHT,
+        name = "Sort and Star",
+        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
 public class WellOfIdeasEasyVersion {
     public static String well(String[] x) {
         Map<String, Long> map = Arrays.stream(x)
