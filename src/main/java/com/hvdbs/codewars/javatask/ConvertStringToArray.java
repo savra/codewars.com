@@ -1,4 +1,4 @@
-package com.hvdbs.codewars;
+package com.hvdbs.codewars.javatask;
 
 import java.util.Arrays;
 

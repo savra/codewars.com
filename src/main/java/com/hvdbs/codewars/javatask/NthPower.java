@@ -1,4 +1,4 @@
-package com.hvdbs.codewars;
+package com.hvdbs.codewars.javatask;
 
 public class NthPower {
     public static int nthPower(int[] array, int n) {

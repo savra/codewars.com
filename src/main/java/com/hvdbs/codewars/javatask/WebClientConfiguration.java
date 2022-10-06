@@ -1,4 +1,4 @@
-package com.hvdbs.codewars;
+package com.hvdbs.codewars.javatask;
 
 import io.netty.channel.ChannelOption;
 import io.netty.handler.timeout.ReadTimeoutHandler;
