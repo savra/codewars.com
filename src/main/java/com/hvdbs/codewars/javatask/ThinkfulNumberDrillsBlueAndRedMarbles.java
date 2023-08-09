@@ -5,9 +5,9 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class BlueAndRedMarbles {
+        name = "Thinkful - Number Drills: Blue and red marbles",
+        url = "https://www.codewars.com/kata/5862f663b4e9d6f12b00003b")
+public class ThinkfulNumberDrillsBlueAndRedMarbles {
     public static double guessBlue(int blueStart, int redStart, int bluePulled, int redPulled) {
         return (double)(blueStart - bluePulled) / ((redStart - redPulled) + (blueStart - bluePulled));
     }

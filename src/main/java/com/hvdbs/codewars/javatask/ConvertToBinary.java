@@ -5,8 +5,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Convert to Binary",
+        url = "https://www.codewars.com/kata/59fca81a5712f9fa4700159a")
 public class ConvertToBinary {
     public static int toBinary(int n) {
         return Integer.parseInt(Integer.toBinaryString(n));

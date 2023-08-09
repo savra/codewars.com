@@ -5,9 +5,9 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class Dinglemouse {
+        name = "Cat years, Dog years",
+        url = "https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b")
+public class CatYearsDogYears {
     public static int[] humanYearsCatYearsDogYears(final int humanYears) {
         int[] result = new int[]{humanYears, 15, 15};
 

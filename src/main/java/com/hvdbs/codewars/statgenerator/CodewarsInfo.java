@@ -14,5 +14,5 @@ public @interface CodewarsInfo {
 
     String name();
 
-    String kataUrl();
+    String url();
 }

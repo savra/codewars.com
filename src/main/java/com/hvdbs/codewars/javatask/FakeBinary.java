@@ -5,8 +5,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Fake Binary",
+        url = "https://www.codewars.com/kata/57eae65a4321032ce000002d")
 public class FakeBinary {
     public static String fakeBin(String numberString) {
         return numberString.replaceAll("[1-4]", "0").replaceAll("[5-9]", "1");

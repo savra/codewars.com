@@ -5,9 +5,9 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class TotalPoints {
+        name = "Total amount of points",
+        url = "https://www.codewars.com/kata/5bb904724c47249b10000131")
+public class TotalAmountOfPoints {
     public static int points(String[] games) {
         int totalPoint = 0;
         int firstTeamResult, secondTeamResult;

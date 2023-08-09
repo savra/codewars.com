@@ -5,8 +5,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Find the Integral",
+        url = "https://www.codewars.com/kata/59811fd8a070625d4c000013")
 public class FindTheIntegral {
     public static String integrate(int coefficient, int exponent) {
         return coefficient / (exponent + 1) + "x^" + ++exponent;

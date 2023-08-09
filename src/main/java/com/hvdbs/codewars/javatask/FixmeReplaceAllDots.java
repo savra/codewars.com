@@ -5,9 +5,9 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class ReplaceAllDots {
+        name = "FIXME: Replace all dots",
+        url = "https://www.codewars.com/kata/596c6eb85b0f515834000049")
+public class FixmeReplaceAllDots {
     public static String replaceDots(final String str) {
         return str.replaceAll("[.]", "-");
     }

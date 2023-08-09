@@ -5,9 +5,9 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class FirstNonConsecutive {
+        name = "Find the first non-consecutive number",
+        url = "https://www.codewars.com/kata/58f8a3a27a5c28d92e000144")
+public class FindTheFirstNonConsecutiveNumber {
     static Integer find(final int[] array) {
         for (int i = 1; i < array.length; i++) {
             if (array[i] - array[i - 1] != 1) {

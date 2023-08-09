@@ -5,8 +5,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Keep Hydrated!",
+        url = "https://www.codewars.com/kata/582cb0224e56e068d800003c")
 public class KeepHydrated {
     public int Liters(double time)  {
         return (int)Math.floor(time * 0.5);

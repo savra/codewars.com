@@ -7,9 +7,9 @@ import java.util.regex.Pattern;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class ReplaceAllVowel {
+        name = "Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence",
+        url = "https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed")
+public class ReplaceAllVowelToExclamationMarkInTheSentence {
     public static String replace(final String s) {
         return Pattern.compile("[aeiou]", Pattern.CASE_INSENSITIVE).matcher(s).replaceAll("!");
     }

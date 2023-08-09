@@ -8,8 +8,8 @@ import java.util.stream.Collectors;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Abbreviate a Two Word Name",
+        url = "https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3")
 public class AbbreviateTwoWords {
     public static String abbrevName(String name) {
         return Arrays.stream(name.split(" ")).map(v -> v.substring(0, 1).toUpperCase()).collect(Collectors.joining("."));

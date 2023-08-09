@@ -5,9 +5,9 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class SeatsInTheater {
+        name = "Simple Fun #1: Seats in Theater",
+        url = "https://www.codewars.com/kata/588417e576933b0ec9000045")
+public class SimpleFunSeatsInTheater {
     public static int seatsInTheater(int nCols, int nRows, int col, int row) {
         return (nCols + 1 - col) * (nRows - row);
     }

@@ -5,9 +5,9 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class WideMouthedFrog {
+        name = "The Wide-Mouthed frog!",
+        url = "https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89")
+public class TheWideMouthedFrog {
     public static String mouthSize(String animal){
         return "alligator".equalsIgnoreCase(animal) ? "small" : "wide";
     }

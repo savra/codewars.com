@@ -7,8 +7,8 @@ import java.util.Arrays;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Invert values",
+        url = "https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad")
 public class InvertValues {
     public static int[] invert(int[] array) {
         return Arrays.stream(array).map(value -> value * -1).toArray();

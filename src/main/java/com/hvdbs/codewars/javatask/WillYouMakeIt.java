@@ -5,9 +5,9 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class ZeroFuel {
+        name = "Will you make it?",
+        url = "https://www.codewars.com/users/savra/completed_solutions")
+public class WillYouMakeIt {
     public static boolean zeroFuel(double distanceToPump, double mpg, double fuelLeft) {
         return distanceToPump / mpg <= fuelLeft;
     }

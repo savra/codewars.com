@@ -7,9 +7,9 @@ import java.util.List;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class Sorter {
+        name = "Sort My Textbooks",
+        url = "https://www.codewars.com/kata/5a07e5b7ffe75fd049000051")
+public class SortMyTextbooks {
     public static List<String> sort(List<String> textbooks) {
         textbooks.sort(String.CASE_INSENSITIVE_ORDER);
         return textbooks;

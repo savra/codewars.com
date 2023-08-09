@@ -5,8 +5,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Remove String Spaces",
+        url = "https://www.codewars.com/kata/57eae20f5500ad98e50002c5")
 public class RemoveStringSpaces {
     public static String noSpace(final String x) {
         return x.replaceAll("[ ]", "");

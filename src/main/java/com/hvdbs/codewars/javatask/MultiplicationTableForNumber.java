@@ -5,9 +5,9 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class MultiTable {
+        name = "Multiplication table for number",
+        url = "https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce")
+public class MultiplicationTableForNumber {
     public static String multiTable(int num) {
         StringBuilder stringBuilder = new StringBuilder();
 
@@ -16,9 +16,5 @@ public class MultiTable {
         }
 
         return stringBuilder.append(10).append(" * ").append(num).append(" = ").append(10 * num).toString();
-    }
-
-    public static void main(String[] args) {
-        multiTable(5);
     }
 }

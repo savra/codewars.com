@@ -5,8 +5,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Duck Duck Goose",
+        url = "https://www.codewars.com/kata/582e0e592029ea10530009ce")
 public class DuckDuckGoose {
     public static String duckDuckGoose(Player[] players, int goose) {
         return String.valueOf(players[(goose % players.length) == 0 ? (players.length - 1) : (goose % players.length) - 1].name);

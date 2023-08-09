@@ -5,8 +5,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Simple multiplication",
+        url = "https://www.codewars.com/kata/583710ccaa6717322c000105")
 public class SimpleMultiplication {
     public static int simpleMultiplication(int n) {
         return n % 2 == 0 ? n * 8 : n * 9;

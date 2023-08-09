@@ -7,9 +7,9 @@ import java.util.List;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class MixedSum {
+        name = "Sum Mixed Array",
+        url = "https://www.codewars.com/kata/57eaeb9578748ff92a000009")
+public class SumMixedArray {
 
     /*
      * Assume input will be only of Integer o String type

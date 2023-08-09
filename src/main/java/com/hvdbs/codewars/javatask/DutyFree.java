@@ -5,8 +5,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Holiday VIII - Duty Free",
+        url = "https://www.codewars.com/kata/57e92e91b63b6cbac20001e5")
 public class DutyFree {
     public static int dutyFree(int normPrice, int discount, int hol) {
         return (int) (hol / (normPrice * (discount / 100.0)));

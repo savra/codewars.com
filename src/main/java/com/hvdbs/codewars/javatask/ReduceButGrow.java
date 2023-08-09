@@ -7,8 +7,8 @@ import java.util.Arrays;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "BeginnerReduceButGrow",
+        url = "https://www.codewars.com/kata/57f780909f7e8e3183000078")
 public class ReduceButGrow {
     public static int grow(int[] x) {
         return Arrays.stream(x).reduce(1, (x1, x2) -> x1 * x2);

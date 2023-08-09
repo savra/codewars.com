@@ -10,13 +10,12 @@ import java.util.stream.Collectors;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Well of Ideas - Easy Version",
+        url = "https://www.codewars.com/kata/57f222ce69e09c3630000212")
 public class WellOfIdeasEasyVersion {
     public static String well(String[] x) {
         Map<String, Long> map = Arrays.stream(x)
-                .collect(
-                        Collectors.groupingBy(Function.identity(), Collectors.counting()));
+                .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 
         if (!map.containsKey("good")) {
             return "Fail!";

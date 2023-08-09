@@ -8,9 +8,9 @@ import java.util.Map;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class TrafficLight {
+        name = "Thinkful - Logic Drills: Traffic light\n",
+        url = "https://www.codewars.com/kata/58649884a1659ed6cb000072")
+public class ThinkfulLogicDrillsTrafficLight {
     public static String updateLight(String current) {
         Map<String, String> trafficLight = new HashMap<>();
 

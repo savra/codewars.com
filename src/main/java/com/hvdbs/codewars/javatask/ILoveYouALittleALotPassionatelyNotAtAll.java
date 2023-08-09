@@ -5,9 +5,9 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class Sid {
+        name = "I love you, a little , a lot, passionately ... not at all",
+        url = "https://www.codewars.com/kata/57f24e6a18e9fad8eb000296")
+public class ILoveYouALittleALotPassionatelyNotAtAll {
     public static String howMuchILoveYou(int nb_petals) {
         String[] petals = {
                 "I love you",

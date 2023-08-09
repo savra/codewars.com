@@ -5,8 +5,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Pythagorean Triple",
+        url = "https://www.codewars.com/kata/5951d30ce99cf2467e000013")
 public class PythagoreanTriple {
     public int pythagoreanTriple(int[] triple) {
         int result = 0;

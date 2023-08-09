@@ -5,8 +5,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Twice as old",
+        url = "https://www.codewars.com/kata/5b853229cfde412a470000d0")
 public class TwiceAsOld {
     public static int TwiceAsOld(int dadYears, int sonYears) {
         int twiceSonYears = sonYears << 1;

@@ -7,8 +7,8 @@ import java.util.stream.IntStream;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Multiple of index",
+        url = "https://www.codewars.com/kata/5a34b80155519e1a00000009")
 public class MultipleOfIndex {
     public static int[] multipleOfIndex(int[] array) {
         return IntStream.range(1, array.length)

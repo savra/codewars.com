@@ -5,8 +5,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Find the position!",
+        url = "https://www.codewars.com/kata/5808e2006b65bff35500008f")
 public class FindThePosition {
     private static final int chrCodeSymbolA = 97;
 

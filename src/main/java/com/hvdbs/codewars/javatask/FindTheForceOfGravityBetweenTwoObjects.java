@@ -3,11 +3,10 @@ package com.hvdbs.codewars.javatask;
 import com.hvdbs.codewars.statgenerator.CodewarsInfo;
 import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
-@CodewarsInfo(
+@CodewarsInfo(name = "Find the force of gravity between two objects",
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class SolutionForceOfGravity {
+        url = "https://www.codewars.com/kata/5b609ebc8f47bd595e000627")
+public class FindTheForceOfGravityBetweenTwoObjects {
     public static double solution(double[] arrVal, String[] arrUnit) {
         double[] result = new double[3];
 
@@ -33,8 +32,7 @@ public class SolutionForceOfGravity {
                     default:
                         result[i] = arrVal[i];
                 }
-            }
-            else {
+            } else {
                 switch (arrUnit[i]) {
                     case "cm":
                         result[i] = arrVal[i] / 1e2;
@@ -58,9 +56,5 @@ public class SolutionForceOfGravity {
         }
 
         return 6.67 * 1e-11 * (result[0] * result[1]) / Math.pow(result[2], 2);
-    }
-
-    public static void main(String[] args) {
-        System.out.println(solution( new double[] {1000, 1000, 100}, new String[] {"kg", "kg", "cm"}));
     }
 }

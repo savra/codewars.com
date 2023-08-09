@@ -5,8 +5,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
+        name = "Welcome!",
+        url = "https://www.codewars.com/kata/577ff15ad648a14b780000e7")
 public class Welcome {
     public static String greet(String language) {
         String result;
@@ -65,9 +65,5 @@ public class Welcome {
         }
 
         return result;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(greet("english"));
     }
 }

@@ -5,9 +5,9 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
 @CodewarsInfo(
         difficulty = Difficulty.EIGHT,
-        name = "Sort and Star",
-        kataUrl = "https://www.codewars.com/kata/57cfdf34902f6ba3d300001e")
-public class VolumeOfCuboid {
+        name = "Volume of a Cuboid",
+        url = "https://www.codewars.com/kata/58261acb22be6e2ed800003a")
+public class VolumeOfACuboid {
     public static double getVolumeOfCuboid(final double length, final double width, final double height) {
         return length * width * height;
     }
