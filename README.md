@@ -3,13 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -38,6 +31,7 @@
 |FIXME: Replace all dots|<a href='https://www.codewars.com/kata/596c6eb85b0f515834000049'>FIXME: Replace all dots</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FixmeReplaceAllDots.java'>FIXME: Replace all dots</a>|
 |FIXME: Static electrickery|<a href='https://www.codewars.com/kata/596c55fc7bd5476bf60000d5'>FIXME: Static electrickery</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FixmeStaticElectrickery.java'>FIXME: Static electrickery</a>|
 |Get Nth Even Number|<a href='https://www.codewars.com/kata/5933a1f8552bc2750a0000ed'>Get Nth Even Number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GetNthEvenNumber.java'>Get Nth Even Number</a>|
+|Gravity Flip|<a href='https://www.codewars.com/kata/5f70c883e10f9e0001c89673'>Gravity Flip</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GravityFlip.java'>Gravity Flip</a>|
 |If you can't sleep, just count sheep!!|<a href='https://www.codewars.com/kata/5b077ebdaf15be5c7f000077'>If you can't sleep, just count sheep!!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/IfYouCantSleepJustCountSheep.java'>If you can't sleep, just count sheep!!</a>|
 |I love you, a little , a lot, passionately ... not at all|<a href='https://www.codewars.com/kata/57f24e6a18e9fad8eb000296'>I love you, a little , a lot, passionately ... not at all</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ILoveYouALittleALotPassionatelyNotAtAll.java'>I love you, a little , a lot, passionately ... not at all</a>|
 |Invert values|<a href='https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad'>Invert values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/InvertValues.java'>Invert values</a>|
@@ -77,4 +71,11 @@
 |Well of Ideas - Easy Version|<a href='https://www.codewars.com/kata/57f222ce69e09c3630000212'>Well of Ideas - Easy Version</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WellOfIdeasEasyVersion.java'>Well of Ideas - Easy Version</a>|
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
