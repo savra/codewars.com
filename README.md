@@ -3,13 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -17,6 +10,7 @@
 |Abbreviate a Two Word Name|<a href='https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3'>Abbreviate a Two Word Name</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AbbreviateTwoWords.java'>Abbreviate a Two Word Name</a>|
 |Age Range Compatibility Equation|<a href='https://www.codewars.com/kata/5803956ddb07c5c74200144e'>Age Range Compatibility Equation</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AgeRangeCompatibilityEquation.java'>Age Range Compatibility Equation</a>|
 |All Star Code Challenge #18|<a href='https://www.codewars.com/kata/5865918c6b569962950002a1'>All Star Code Challenge #18</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AllStarCodeChallenge18.java'>All Star Code Challenge #18</a>|
+|A Needle in the Haystack|<a href='https://www.codewars.com/kata/56676e8fabd2d1ff3000000c'>A Needle in the Haystack</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ANeedleInTheHaystack.java'>A Needle in the Haystack</a>|
 |Area or Perimeter|<a href='https://www.codewars.com/kata/5ab6538b379d20ad880000ab'>Area or Perimeter</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AreaOrPerimeter.java'>Area or Perimeter</a>|
 |Array plus array|<a href='https://www.codewars.com/kata/5a2be17aee1aaefe2a000151'>Array plus array</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ArrayPlusArray.java'>Array plus array</a>|
 |A wolf in sheep's clothing|<a href=''>A wolf in sheep's clothing</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AWolfInSheepsClothing.java'>A wolf in sheep's clothing</a>|
@@ -88,4 +82,11 @@
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
