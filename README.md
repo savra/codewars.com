@@ -3,13 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -47,6 +40,7 @@
 |Multiplication table for number|<a href='https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce'>Multiplication table for number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/MultiplicationTableForNumber.java'>Multiplication table for number</a>|
 |N-th Power (retired)|<a href='https://www.codewars.com/kata/57d814e4950d8489720008db'>N-th Power (retired)</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/NthPower.java'>N-th Power (retired)</a>|
 |Pythagorean Triple|<a href='https://www.codewars.com/kata/5951d30ce99cf2467e000013'>Pythagorean Triple</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/PythagoreanTriple.java'>Pythagorean Triple</a>|
+|Quadrants|<a href='https://www.codewars.com/kata/643af0fa9fa6c406b47c5399'>Quadrants</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/Quadrants.java'>Quadrants</a>|
 |BeginnerReduceButGrow|<a href='https://www.codewars.com/kata/57f780909f7e8e3183000078'>BeginnerReduceButGrow</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ReduceButGrow.java'>BeginnerReduceButGrow</a>|
 |Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right|<a href='https://www.codewars.com/kata/57faf7275c991027af000679'>Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RemoveNExclamationMarksInTheSentenceFromLeftToRight.java'>Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right</a>|
 |Remove String Spaces|<a href='https://www.codewars.com/kata/57eae20f5500ad98e50002c5'>Remove String Spaces</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RemoveStringSpaces.java'>Remove String Spaces</a>|
@@ -76,4 +70,11 @@
 |Well of Ideas - Easy Version|<a href='https://www.codewars.com/kata/57f222ce69e09c3630000212'>Well of Ideas - Easy Version</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WellOfIdeasEasyVersion.java'>Well of Ideas - Easy Version</a>|
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
