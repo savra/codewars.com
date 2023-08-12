@@ -3,13 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -64,6 +57,7 @@
 |Sort My Textbooks|<a href='https://www.codewars.com/kata/5a07e5b7ffe75fd049000051'>Sort My Textbooks</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SortMyTextbooks.java'>Sort My Textbooks</a>|
 |Sum Mixed Array|<a href='https://www.codewars.com/kata/57eaeb9578748ff92a000009'>Sum Mixed Array</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SumMixedArray.java'>Sum Mixed Array</a>|
 |Sum of differences in array|<a href='https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e'>Sum of differences in array</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SumOfDifferencesInArray.java'>Sum of differences in array</a>|
+|Sum of positive|<a href='https://www.codewars.com/kata/5715eaedb436cf5606000381'>Sum of positive</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SumOfPositive.java'>Sum of positive</a>|
 |Switch it Up!|<a href='https://www.codewars.com/kata/5808dcb8f0ed42ae34000031'>Switch it Up!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SwitchItUp.java'>Switch it Up!</a>|
 |The Feast of Many Beasts|<a href='https://www.codewars.com/kata/5aa736a455f906981800360d'>The Feast of Many Beasts</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/TheFeastOfManyBeasts.java'>The Feast of Many Beasts</a>|
 |The Wide-Mouthed frog!|<a href='https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89'>The Wide-Mouthed frog!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/TheWideMouthedFrog.java'>The Wide-Mouthed frog!</a>|
@@ -83,4 +77,11 @@
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
