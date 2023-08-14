@@ -3,6 +3,13 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
+</details>
+<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -30,6 +37,7 @@
 |Duck Duck Goose|<a href='https://www.codewars.com/kata/582e0e592029ea10530009ce'>Duck Duck Goose</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DuckDuckGoose.java'>Duck Duck Goose</a>|
 |Holiday VIII - Duty Free|<a href='https://www.codewars.com/kata/57e92e91b63b6cbac20001e5'>Holiday VIII - Duty Free</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DutyFree.java'>Holiday VIII - Duty Free</a>|
 |easy logs|<a href='https://www.codewars.com/kata/5b68c7029756802aa2000176'>easy logs</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/EasyLogs.java'>easy logs</a>|
+|Enumerable Magic #1 - True for All?|<a href='https://www.codewars.com/kata/54598d1fcbae2ae05200112c'>Enumerable Magic #1 - True for All?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/EnumerableMagic1TrueForAll.java'>Enumerable Magic #1 - True for All?</a>|
 |Fake Binary|<a href='https://www.codewars.com/kata/57eae65a4321032ce000002d'>Fake Binary</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FakeBinary.java'>Fake Binary</a>|
 |Find Nearest square number|<a href='https://www.codewars.com/kata/5a805d8cafa10f8b930005ba'>Find Nearest square number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FindNearestSquareNumber.java'>Find Nearest square number</a>|
 |Find numbers which are divisible by given number|<a href='https://www.codewars.com/kata/55edaba99da3a9c84000003b'>Find numbers which are divisible by given number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FindNumbersWhichAreDivisibleByGivenNumber.java'>Find numbers which are divisible by given number</a>|
@@ -89,11 +97,4 @@
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
-</details>
-<details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
