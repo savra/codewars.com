@@ -11,8 +11,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 public class SwapValues {
     public Object[] arguments;
 
-    public void Swapper(final Object[] args){
-        arguments=args;
+    public void Swapper(final Object[] args) {
+        arguments = args;
     }
 
     public void swapValues() {
