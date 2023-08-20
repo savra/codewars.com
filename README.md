@@ -3,6 +3,14 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
+</details>
+<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -59,6 +67,7 @@
 |Push a hash/an object into array|<a href='https://www.codewars.com/kata/527b3cd0492b6b15250060af'>Push a hash/an object into array</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/PushAHashAnObjectIntoArray.java'>Push a hash/an object into array</a>|
 |Pythagorean Triple|<a href='https://www.codewars.com/kata/5951d30ce99cf2467e000013'>Pythagorean Triple</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/PythagoreanTriple.java'>Pythagorean Triple</a>|
 |Quadrants|<a href='https://www.codewars.com/kata/643af0fa9fa6c406b47c5399'>Quadrants</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/Quadrants.java'>Quadrants</a>|
+|Quarter of the year|<a href='https://www.codewars.com/kata/5ce9c1000bab0b001134f5af'>Quarter of the year</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/QuarterOfTheYear.java'>Quarter of the year</a>|
 |BeginnerReduceButGrow|<a href='https://www.codewars.com/kata/57f780909f7e8e3183000078'>BeginnerReduceButGrow</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ReduceButGrow.java'>BeginnerReduceButGrow</a>|
 |Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right|<a href='https://www.codewars.com/kata/57faf7275c991027af000679'>Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RemoveNExclamationMarksInTheSentenceFromLeftToRight.java'>Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right</a>|
 |Remove String Spaces|<a href='https://www.codewars.com/kata/57eae20f5500ad98e50002c5'>Remove String Spaces</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RemoveStringSpaces.java'>Remove String Spaces</a>|
@@ -95,12 +104,4 @@
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
-</details>
-<details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
