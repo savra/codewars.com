@@ -3,14 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -72,6 +64,7 @@
 |My head is at the wrong end!|<a href='https://www.codewars.com/kata/56f699cd9400f5b7d8000b55'>My head is at the wrong end!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/MyHeadIsAtTheWrongEnd.java'>My head is at the wrong end!</a>|
 |N-th Power (retired)|<a href='https://www.codewars.com/kata/57d814e4950d8489720008db'>N-th Power (retired)</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/NthPower.java'>N-th Power (retired)</a>|
 |Pillars|<a href='https://www.codewars.com/kata/5bb0c58f484fcd170700063d'>Pillars</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/Pillars.java'>Pillars</a>|
+|Powers of 2|<a href='https://www.codewars.com/kata/57a083a57cb1f31db7000028'>Powers of 2</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/PowersOf2.java'>Powers of 2</a>|
 |Printing Array elements with Comma delimiters|<a href='https://www.codewars.com/kata/56e2f59fb2ed128081001328'>Printing Array elements with Comma delimiters</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/PrintingArrayElementsWithCommaDelimiters.java'>Printing Array elements with Comma delimiters</a>|
 |Push a hash/an object into array|<a href='https://www.codewars.com/kata/527b3cd0492b6b15250060af'>Push a hash/an object into array</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/PushAHashAnObjectIntoArray.java'>Push a hash/an object into array</a>|
 |Pythagorean Triple|<a href='https://www.codewars.com/kata/5951d30ce99cf2467e000013'>Pythagorean Triple</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/PythagoreanTriple.java'>Pythagorean Triple</a>|
@@ -116,4 +109,12 @@
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
