@@ -3,14 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -31,6 +23,7 @@
 |Convert number to reversed array of digits|<a href='https://www.codewars.com/kata/5583090cbe83f4fd8c000051'>Convert number to reversed array of digits</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ConvertNumberToReversedArrayOfDigits.java'>Convert number to reversed array of digits</a>|
 |Convert a string to an array|<a href='https://www.codewars.com/kata/57e76bc428d6fbc2d500036d'>Convert a string to an array</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ConvertStringToArray.java'>Convert a string to an array</a>|
 |Convert to Binary|<a href='https://www.codewars.com/kata/59fca81a5712f9fa4700159a'>Convert to Binary</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ConvertToBinary.java'>Convert to Binary</a>|
+|Correct the mistakes of the character recognition software|<a href='https://www.codewars.com/kata/577bd026df78c19bca0002c0'>Correct the mistakes of the character recognition software</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CorrectTheMistakesOfTheCharacterRecognitionSoftware.java'>Correct the mistakes of the character recognition software</a>|
 |Count by X|<a href='https://www.codewars.com/kata/5513795bd3fafb56c200049e'>Count by X</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CountByX.java'>Count by X</a>|
 |Counting sheep...|<a href='https://www.codewars.com/kata/54edbc7200b811e956000556'>Counting sheep...</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CountingSheep.java'>Counting sheep...</a>|
 |Count Odd Numbers below n|<a href='https://www.codewars.com/kata/59342039eb450e39970000a6'>Count Odd Numbers below n</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CountOddNumbersBelowN.java'>Count Odd Numbers below n</a>|
@@ -118,4 +111,12 @@
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
