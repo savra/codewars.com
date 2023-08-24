@@ -12,6 +12,8 @@ import java.time.temporal.ChronoUnit;
         url = "https://www.codewars.com/kata/578a8a01e9fd1549e50001f1"
 )
 public class IsYourPeriodLate {
+    //My Time Complexity: O(1)
+    //My Space complexity: O(1)
     public static boolean periodIsLate(LocalDate last, LocalDate today, int cycleLength) {
         return ChronoUnit.DAYS.between(last, today) > cycleLength;
     }
