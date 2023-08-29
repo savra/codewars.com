@@ -8,6 +8,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
         name = "Is it a number?",
         url = "https://www.codewars.com/kata/57126304cdbf63c6770012bd")
 public class IsItANumber {
+    //My Time Complexity: O(1)
+    //My Space complexity: O(1)
     public boolean isDigit(String s) {
         boolean isDigit;
 
