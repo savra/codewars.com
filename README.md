@@ -3,14 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -59,6 +51,7 @@
 |Fuel Calculator: Total Cost|<a href='https://www.codewars.com/kata/57b58827d2a31c57720012e8'>Fuel Calculator: Total Cost</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FuelCalculatorTotalCost.java'>Fuel Calculator: Total Cost</a>|
 |Get Nth Even Number|<a href='https://www.codewars.com/kata/5933a1f8552bc2750a0000ed'>Get Nth Even Number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GetNthEvenNumber.java'>Get Nth Even Number</a>|
 |Get the mean of an array|<a href='https://www.codewars.com/kata/563e320cee5dddcf77000158'>Get the mean of an array</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GetTheMeanOfAnArray.java'>Get the mean of an array</a>|
+|Ghost code?!|<a href='https://www.codewars.com/kata/570184a95594a091150000a0'>Ghost code?!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GhostCode.java'>Ghost code?!</a>|
 |Grasshopper - Array Mean|<a href='https://www.codewars.com/kata/55d277882e139d0b6000005d'>Grasshopper - Array Mean</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GrasshopperArrayMean.java'>Grasshopper - Array Mean</a>|
 |Grasshopper - Personalized Message|<a href='https://www.codewars.com/kata/5772da22b89313a4d50012f7'>Grasshopper - Personalized Message</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GrasshopperPersonalizedMessage.java'>Grasshopper - Personalized Message</a>|
 |Gravity Flip|<a href='https://www.codewars.com/kata/5f70c883e10f9e0001c89673'>Gravity Flip</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GravityFlip.java'>Gravity Flip</a>|
@@ -132,4 +125,12 @@
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
