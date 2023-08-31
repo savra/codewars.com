@@ -3,14 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -18,6 +10,7 @@
 |Abbreviate a Two Word Name|<a href='https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3'>Abbreviate a Two Word Name</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AbbreviateTwoWords.java'>Abbreviate a Two Word Name</a>|
 |Age Range Compatibility Equation|<a href='https://www.codewars.com/kata/5803956ddb07c5c74200144e'>Age Range Compatibility Equation</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AgeRangeCompatibilityEquation.java'>Age Range Compatibility Equation</a>|
 |All Star Code Challenge #18|<a href='https://www.codewars.com/kata/5865918c6b569962950002a1'>All Star Code Challenge #18</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AllStarCodeChallenge18.java'>All Star Code Challenge #18</a>|
+|altERnaTIng cAsE <=> ALTerNAtiNG CaSe|<a href='https://www.codewars.com/kata/56efc695740d30f963000557'>altERnaTIng cAsE <=> ALTerNAtiNG CaSe</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AltERnaTIngCAsEALTerNAtiNGCaSe.java'>altERnaTIng cAsE <=> ALTerNAtiNG CaSe</a>|
 |A Needle in the Haystack|<a href='https://www.codewars.com/kata/56676e8fabd2d1ff3000000c'>A Needle in the Haystack</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ANeedleInTheHaystack.java'>A Needle in the Haystack</a>|
 |Area of a Square|<a href='https://www.codewars.com/kata/5748838ce2fab90b86001b1a'>Area of a Square</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AreaOfASquare.java'>Area of a Square</a>|
 |Area or Perimeter|<a href='https://www.codewars.com/kata/5ab6538b379d20ad880000ab'>Area or Perimeter</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AreaOrPerimeter.java'>Area or Perimeter</a>|
@@ -135,4 +128,12 @@
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
