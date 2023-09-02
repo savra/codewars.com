@@ -3,14 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -140,6 +132,7 @@
 |ToSquareRootOrNotToSquareRoot|<a href='https://www.codewars.com/kata/57f6ad55cca6e045d2000627'>ToSquareRootOrNotToSquareRoot</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ToSquareOrNotToSquare.java'>ToSquareRootOrNotToSquareRoot</a>|
 |Total amount of points|<a href='https://www.codewars.com/kata/5bb904724c47249b10000131'>Total amount of points</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/TotalAmountOfPoints.java'>Total amount of points</a>|
 |Training JS #7: if..else and ternary operator|<a href='https://www.codewars.com/kata/57202aefe8d6c514300001fd'>Training JS #7: if..else and ternary operator</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/TrainingJS7IfElseAndTernaryOperator.java'>Training JS #7: if..else and ternary operator</a>|
+|Transportation on vacation|<a href='https://www.codewars.com/kata/568d0dd208ee69389d000016'>Transportation on vacation</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/TransportationOnVacation.java'>Transportation on vacation</a>|
 |Triple Trouble|<a href='https://www.codewars.com/kata/5704aea738428f4d30000914'>Triple Trouble</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/TripleTrouble.java'>Triple Trouble</a>|
 |Twice as old|<a href='https://www.codewars.com/kata/5b853229cfde412a470000d0'>Twice as old</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/TwiceAsOld.java'>Twice as old</a>|
 |Volume of a Cuboid|<a href='https://www.codewars.com/kata/58261acb22be6e2ed800003a'>Volume of a Cuboid</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VolumeOfACuboid.java'>Volume of a Cuboid</a>|
@@ -148,4 +141,12 @@
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
