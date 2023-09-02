@@ -3,6 +3,14 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
+</details>
+<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -96,6 +104,7 @@
 |Remove exclamation marks|<a href='https://www.codewars.com/kata/57a0885cbb9944e24c00008e'>Remove exclamation marks</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RemoveExclamationMarks.java'>Remove exclamation marks</a>|
 |Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right|<a href='https://www.codewars.com/kata/57faf7275c991027af000679'>Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RemoveNExclamationMarksInTheSentenceFromLeftToRight.java'>Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right</a>|
 |Remove String Spaces|<a href='https://www.codewars.com/kata/57eae20f5500ad98e50002c5'>Remove String Spaces</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RemoveStringSpaces.java'>Remove String Spaces</a>|
+|Remove the time|<a href='https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e'>Remove the time</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RemoveTheTime.java'>Remove the time</a>|
 |Removing Elements|<a href='https://www.codewars.com/kata/5769b3802ae6f8e4890009d2'>Removing Elements</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RemovingElements.java'>Removing Elements</a>|
 |Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence|<a href='https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed'>Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ReplaceAllVowelToExclamationMarkInTheSentence.java'>Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence</a>|
 |Return the day|<a href='https://www.codewars.com/kata/59dd3ccdded72fc78b000b25'>Return the day</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ReturnTheDay.java'>Return the day</a>|
@@ -137,12 +146,4 @@
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
-</details>
-<details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
