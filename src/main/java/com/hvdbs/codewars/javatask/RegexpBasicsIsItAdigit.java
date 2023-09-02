@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
         url = "https://www.codewars.com/kata/567bf4f7ee34510f69000032"
 )
 public class RegexpBasicsIsItAdigit {
-    //My Time Complexity: O(1)
+    //My Time Complexity: O(n)
     //My Space complexity: O(1)
     public static boolean isDigit(String s) {
         return Pattern.compile("[0-9]").matcher(s).matches();
