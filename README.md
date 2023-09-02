@@ -3,14 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -51,6 +43,7 @@
 |Exclusive "or" (xor) Logical Operator|<a href='https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c'>Exclusive "or" (xor) Logical Operator</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ExclusiveOrXorLogicalOperator.java'>Exclusive "or" (xor) Logical Operator</a>|
 |Expressions Matter|<a href='https://www.codewars.com/kata/5ae62fcf252e66d44d00008e'>Expressions Matter</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ExpressionsMatter.java'>Expressions Matter</a>|
 |Fake Binary|<a href='https://www.codewars.com/kata/57eae65a4321032ce000002d'>Fake Binary</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FakeBinary.java'>Fake Binary</a>|
+|Filtering even numbers (Bug Fixes)|<a href='https://www.codewars.com/kata/566dc566f6ea9a14b500007b'>Filtering even numbers (Bug Fixes)</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FilteringEvenNumbersBugFixes.java'>Filtering even numbers (Bug Fixes)</a>|
 |Find Maximum and Minimum Values of a List|<a href='https://www.codewars.com/kata/577a98a6ae28071780000989'>Find Maximum and Minimum Values of a List</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FindMaximumAndMinimumValuesOfAList.java'>Find Maximum and Minimum Values of a List</a>|
 |Find Nearest square number|<a href='https://www.codewars.com/kata/5a805d8cafa10f8b930005ba'>Find Nearest square number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FindNearestSquareNumber.java'>Find Nearest square number</a>|
 |Find numbers which are divisible by given number|<a href='https://www.codewars.com/kata/55edaba99da3a9c84000003b'>Find numbers which are divisible by given number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FindNumbersWhichAreDivisibleByGivenNumber.java'>Find numbers which are divisible by given number</a>|
@@ -139,4 +132,12 @@
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
