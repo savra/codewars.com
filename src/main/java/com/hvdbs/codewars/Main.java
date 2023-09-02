@@ -9,6 +9,5 @@ public class Main {
     public static void main(String[] args) {
         SpringApplication.run(Main.class, args);
         StatsGenerator.generate();
-        System.out.println("GENERATED!!!");
     }
 }
