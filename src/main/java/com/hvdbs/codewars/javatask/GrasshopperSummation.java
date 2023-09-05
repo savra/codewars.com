@@ -9,6 +9,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
         url = "https://www.codewars.com/kata/55d24f55d7dd296eb9000030"
 )
 public class GrasshopperSummation {
+    //My Time Complexity: O(1)
+    //My Space complexity: O(1)
     public static int summation(int n) {
         if (n == 1) {
             return 1;
