@@ -3,14 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -133,6 +125,7 @@
 |Sum of Multiples|<a href='https://www.codewars.com/kata/57241e0f440cd279b5000829'>Sum of Multiples</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SumOfMultiples.java'>Sum of Multiples</a>|
 |Sum of positive|<a href='https://www.codewars.com/kata/5715eaedb436cf5606000381'>Sum of positive</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SumOfPositive.java'>Sum of positive</a>|
 |Sum without highest and lowest number|<a href='https://www.codewars.com/kata/576b93db1129fcf2200001e6'>Sum without highest and lowest number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SumWithoutHighestAndLowestNumber.java'>Sum without highest and lowest number</a>|
+|Surface Area and Volume of a Box|<a href='https://www.codewars.com/kata/565f5825379664a26b00007c'>Surface Area and Volume of a Box</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SurfaceAreaAndVolumeOfABox.java'>Surface Area and Volume of a Box</a>|
 |Swap Values|<a href='https://www.codewars.com/kata/5388f0e00b24c5635e000fc6'>Swap Values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SwapValues.java'>Swap Values</a>|
 |Switch it Up!|<a href='https://www.codewars.com/kata/5808dcb8f0ed42ae34000031'>Switch it Up!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SwitchItUp.java'>Switch it Up!</a>|
 |The Feast of Many Beasts|<a href='https://www.codewars.com/kata/5aa736a455f906981800360d'>The Feast of Many Beasts</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/TheFeastOfManyBeasts.java'>The Feast of Many Beasts</a>|
@@ -158,4 +151,12 @@
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |Wilson primes|<a href='https://www.codewars.com/kata/55dc4520094bbaf50e0000cb'>Wilson primes</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WilsonPrimes.java'>Wilson primes</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
