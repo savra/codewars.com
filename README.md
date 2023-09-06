@@ -3,6 +3,14 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
+</details>
+<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -65,6 +73,7 @@
 |Ghost code?!|<a href='https://www.codewars.com/kata/570184a95594a091150000a0'>Ghost code?!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GhostCode.java'>Ghost code?!</a>|
 |Grasshopper - Array Mean|<a href='https://www.codewars.com/kata/55d277882e139d0b6000005d'>Grasshopper - Array Mean</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GrasshopperArrayMean.java'>Grasshopper - Array Mean</a>|
 |Grasshopper - Basic Function Fixer|<a href='https://www.codewars.com/kata/56200d610758762fb0000002'>Grasshopper - Basic Function Fixer</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GrasshopperBasicFunctionFixer.java'>Grasshopper - Basic Function Fixer</a>|
+|Grasshopper - Debug sayHello|<a href='https://www.codewars.com/kata/5625618b1fe21ab49f00001f'>Grasshopper - Debug sayHello</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GrasshopperDebugSayHello.java'>Grasshopper - Debug sayHello</a>|
 |Grasshopper - Messi goals function|<a href='https://www.codewars.com/kata/55f73be6e12baaa5900000d4'>Grasshopper - Messi goals function</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GrasshopperMessiGoalsFunction.java'>Grasshopper - Messi goals function</a>|
 |Grasshopper - Personalized Message|<a href='https://www.codewars.com/kata/5772da22b89313a4d50012f7'>Grasshopper - Personalized Message</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GrasshopperPersonalizedMessage.java'>Grasshopper - Personalized Message</a>|
 |Grasshopper - Summation|<a href='https://www.codewars.com/kata/55d24f55d7dd296eb9000030'>Grasshopper - Summation</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GrasshopperSummation.java'>Grasshopper - Summation</a>|
@@ -154,12 +163,4 @@
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |Wilson primes|<a href='https://www.codewars.com/kata/55dc4520094bbaf50e0000cb'>Wilson primes</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WilsonPrimes.java'>Wilson primes</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
-</details>
-<details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
