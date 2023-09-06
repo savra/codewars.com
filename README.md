@@ -3,14 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -80,6 +72,7 @@
 |Hex to Decimal|<a href='https://www.codewars.com/kata/57a4d500e298a7952100035d'>Hex to Decimal</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/HexToDecimal.java'>Hex to Decimal</a>|
 |Holiday VI - Shark Pontoon|<a href='https://www.codewars.com/kata/57e921d8b36340f1fd000059'>Holiday VI - Shark Pontoon</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/HolidayVISharkPontoon.java'>Holiday VI - Shark Pontoon</a>|
 |How do I compare numbers?|<a href='https://www.codewars.com/kata/55d8618adfda93c89600012e'>How do I compare numbers?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/HowDoICompareNumbers.java'>How do I compare numbers?</a>|
+|How good are you really?|<a href='https://www.codewars.com/kata/5601409514fc93442500010b'>How good are you really?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/HowGoodAreYouReally.java'>How good are you really?</a>|
 |How many stairs will Suzuki climb in 20 years?|<a href='https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e'>How many stairs will Suzuki climb in 20 years?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/HowManyStairsWillSuzukiClimbIn20Years.java'>How many stairs will Suzuki climb in 20 years?</a>|
 |How old will I be in 2099?|<a href='https://www.codewars.com/kata/5761a717780f8950ce001473'>How old will I be in 2099?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/HowOldWillIBeIn2099.java'>How old will I be in 2099?</a>|
 |If you can't sleep, just count sheep!!|<a href='https://www.codewars.com/kata/5b077ebdaf15be5c7f000077'>If you can't sleep, just count sheep!!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/IfYouCantSleepJustCountSheep.java'>If you can't sleep, just count sheep!!</a>|
@@ -160,4 +153,12 @@
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |Wilson primes|<a href='https://www.codewars.com/kata/55dc4520094bbaf50e0000cb'>Wilson primes</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WilsonPrimes.java'>Wilson primes</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
