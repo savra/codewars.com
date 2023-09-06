@@ -9,6 +9,8 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
         url = "https://www.codewars.com/kata/565f5825379664a26b00007c"
 )
 public class SurfaceAreaAndVolumeOfABox {
+    //My Time Complexity: O(1)
+    //My Space complexity: O(1)
     public static int[] getSize(int w, int h, int d) {
         return new int[] {2 * (w * h + w * d + h * d), w * h * d};
     }
