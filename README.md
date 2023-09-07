@@ -3,6 +3,14 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
+</details>
+<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -120,6 +128,7 @@
 |Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence|<a href='https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed'>Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ReplaceAllVowelToExclamationMarkInTheSentence.java'>Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence</a>|
 |Return the day|<a href='https://www.codewars.com/kata/59dd3ccdded72fc78b000b25'>Return the day</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ReturnTheDay.java'>Return the day</a>|
 |Reversed sequence|<a href='https://www.codewars.com/kata/5a00e05cc374cb34d100000d'>Reversed sequence</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ReversedSequence.java'>Reversed sequence</a>|
+|Reversed Words|<a href='https://www.codewars.com/kata/51c8991dee245d7ddf00000e'>Reversed Words</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ReversedWords.java'>Reversed Words</a>|
 |Rock Paper Scissors!|<a href='https://www.codewars.com/kata/5672a98bdbdd995fad00000f'>Rock Paper Scissors!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RockPaperScissors.java'>Rock Paper Scissors!</a>|
 |Sentence Smash|<a href='https://www.codewars.com/kata/53dc23c68a0c93699800041d'>Sentence Smash</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SentenceSmash.java'>Sentence Smash</a>|
 |Simple Fun #1: Seats in Theater|<a href='https://www.codewars.com/kata/588417e576933b0ec9000045'>Simple Fun #1: Seats in Theater</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SimpleFunSeatsInTheater.java'>Simple Fun #1: Seats in Theater</a>|
@@ -163,12 +172,4 @@
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |Wilson primes|<a href='https://www.codewars.com/kata/55dc4520094bbaf50e0000cb'>Wilson primes</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WilsonPrimes.java'>Wilson primes</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
-</details>
-<details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
