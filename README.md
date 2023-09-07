@@ -3,14 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -93,6 +85,7 @@
 |Invert values|<a href='https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad'>Invert values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/InvertValues.java'>Invert values</a>|
 |Is he gonna survive?|<a href='https://www.codewars.com/kata/59ca8246d751df55cc00014c'>Is he gonna survive?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/IsHeGonnaSurvive.java'>Is he gonna survive?</a>|
 |Is it a number?|<a href='https://www.codewars.com/kata/57126304cdbf63c6770012bd'>Is it a number?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/IsItANumber.java'>Is it a number?</a>|
+|Is n divisible by x and y?|<a href='https://www.codewars.com/kata/5545f109004975ea66000086'>Is n divisible by x and y?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/IsNDivisibleByXAndY.java'>Is n divisible by x and y?</a>|
 |Is your period late?|<a href='https://www.codewars.com/kata/578a8a01e9fd1549e50001f1'>Is your period late?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/IsYourPeriodLate.java'>Is your period late?</a>|
 |Keep Hydrated!|<a href='https://www.codewars.com/kata/582cb0224e56e068d800003c'>Keep Hydrated!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/KeepHydrated.java'>Keep Hydrated!</a>|
 |8kyu interpreters: HQ9+|<a href='https://www.codewars.com/kata/591588d49f4056e13f000001'>8kyu interpreters: HQ9+</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/KyuInterpretersHQ.java'>8kyu interpreters: HQ9+</a>|
@@ -172,4 +165,12 @@
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |Wilson primes|<a href='https://www.codewars.com/kata/55dc4520094bbaf50e0000cb'>Wilson primes</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WilsonPrimes.java'>Wilson primes</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
