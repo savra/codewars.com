@@ -130,6 +130,7 @@
 |Remove the time|<a href='https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e'>Remove the time</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RemoveTheTime.java'>Remove the time</a>|
 |Removing Elements|<a href='https://www.codewars.com/kata/5769b3802ae6f8e4890009d2'>Removing Elements</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RemovingElements.java'>Removing Elements</a>|
 |Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence|<a href='https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed'>Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ReplaceAllVowelToExclamationMarkInTheSentence.java'>Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence</a>|
+|Returning Strings|<a href='https://www.codewars.com/kata/55a70521798b14d4750000a4'>Returning Strings</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ReturningStrings.java'>Returning Strings</a>|
 |Return the day|<a href='https://www.codewars.com/kata/59dd3ccdded72fc78b000b25'>Return the day</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ReturnTheDay.java'>Return the day</a>|
 |Reversed sequence|<a href='https://www.codewars.com/kata/5a00e05cc374cb34d100000d'>Reversed sequence</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ReversedSequence.java'>Reversed sequence</a>|
 |Reversed Words|<a href='https://www.codewars.com/kata/51c8991dee245d7ddf00000e'>Reversed Words</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ReversedWords.java'>Reversed Words</a>|
@@ -181,6 +182,13 @@
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
 </details>
 <details>
+<summary>SIX</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
+</details>
+<details>
 <summary>SEVEN</summary>
 
 |Name|Problem|Solution|
@@ -192,11 +200,4 @@
 |FIXME: Run, Runner!|<a href='https://www.codewars.com/kata/596b2b9d9e2fbd7811000046'>FIXME: Run, Runner!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMERunRunner.java'>FIXME: Run, Runner!</a>|
 |Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
 |Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
-<summary>SIX</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
 </details>
