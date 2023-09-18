@@ -3,14 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SIX</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
-|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -23,6 +15,7 @@
 |A Needle in the Haystack|<a href='https://www.codewars.com/kata/56676e8fabd2d1ff3000000c'>A Needle in the Haystack</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ANeedleInTheHaystack.java'>A Needle in the Haystack</a>|
 |Area of a Square|<a href='https://www.codewars.com/kata/5748838ce2fab90b86001b1a'>Area of a Square</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AreaOfASquare.java'>Area of a Square</a>|
 |Area or Perimeter|<a href='https://www.codewars.com/kata/5ab6538b379d20ad880000ab'>Area or Perimeter</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AreaOrPerimeter.java'>Area or Perimeter</a>|
+|Are You Playing Banjo?|<a href='https://www.codewars.com/kata/53af2b8861023f1d88000832'>Are You Playing Banjo?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AreYouPlayingBanjo.java'>Are You Playing Banjo?</a>|
 |Array plus array|<a href='https://www.codewars.com/kata/5a2be17aee1aaefe2a000151'>Array plus array</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ArrayPlusArray.java'>Array plus array</a>|
 |A Strange Trip to the Market|<a href='https://www.codewars.com/kata/55ccdf1512938ce3ac000056'>A Strange Trip to the Market</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AStrangeTripToTheMarket.java'>A Strange Trip to the Market</a>|
 |A wolf in sheep's clothing|<a href=''>A wolf in sheep's clothing</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/AWolfInSheepsClothing.java'>A wolf in sheep's clothing</a>|
@@ -213,4 +206,12 @@
 |FIXME: Run, Runner!|<a href='https://www.codewars.com/kata/596b2b9d9e2fbd7811000046'>FIXME: Run, Runner!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMERunRunner.java'>FIXME: Run, Runner!</a>|
 |Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
 |Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
+</details>
+<details>
+<summary>SIX</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
+|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
 </details>
