@@ -3,6 +3,14 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
+<summary>SIX</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
+|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
+</details>
+<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -184,20 +192,13 @@
 |Unfinished Loop - Bug Fixing #1|<a href='https://www.codewars.com/kata/55c28f7304e3eaebef0000da'>Unfinished Loop - Bug Fixing #1</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/UnfinishedLoopBugFixing.java'>Unfinished Loop - Bug Fixing #1</a>|
 |Volume of a Cuboid|<a href='https://www.codewars.com/kata/58261acb22be6e2ed800003a'>Volume of a Cuboid</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VolumeOfACuboid.java'>Volume of a Cuboid</a>|
 |Welcome!|<a href='https://www.codewars.com/kata/577ff15ad648a14b780000e7'>Welcome!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/Welcome.java'>Welcome!</a>|
+|Welcome to the City|<a href='https://www.codewars.com/kata/5302d846be2a9189af0001e4'>Welcome to the City</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WelcomeToTheCity.java'>Welcome to the City</a>|
 |Well of Ideas - Easy Version|<a href='https://www.codewars.com/kata/57f222ce69e09c3630000212'>Well of Ideas - Easy Version</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WellOfIdeasEasyVersion.java'>Well of Ideas - Easy Version</a>|
 |What is between?|<a href='https://www.codewars.com/kata/55ecd718f46fba02e5000029'>What is between?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WhatIsBetween.java'>What is between?</a>|
 |Will there be enough space?|<a href='https://www.codewars.com/kata/5875b200d520904a04000003'>Will there be enough space?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillThereBeEnoughSpace.java'>Will there be enough space?</a>|
 |Will you make it?|<a href='https://www.codewars.com/users/savra/completed_solutions'>Will you make it?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WillYouMakeIt.java'>Will you make it?</a>|
 |Wilson primes|<a href='https://www.codewars.com/kata/55dc4520094bbaf50e0000cb'>Wilson primes</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WilsonPrimes.java'>Wilson primes</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
-</details>
-<details>
-<summary>SIX</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
-|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
 </details>
 <details>
 <summary>SEVEN</summary>
