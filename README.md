@@ -3,6 +3,14 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
+<summary>SIX</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
+|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
+</details>
+<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -67,6 +75,7 @@
 |FIXME: Static electrickery|<a href='https://www.codewars.com/kata/596c55fc7bd5476bf60000d5'>FIXME: Static electrickery</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FixmeStaticElectrickery.java'>FIXME: Static electrickery</a>|
 |Formatting decimal places|<a href='https://www.codewars.com/kata/5641a03210e973055a00000d'>Formatting decimal places</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FormattingDecimalPlaces.java'>Formatting decimal places</a>|
 |Fuel Calculator: Total Cost|<a href='https://www.codewars.com/kata/57b58827d2a31c57720012e8'>Fuel Calculator: Total Cost</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FuelCalculatorTotalCost.java'>Fuel Calculator: Total Cost</a>|
+|Function 1 - hello world|<a href='https://www.codewars.com/kata/523b4ff7adca849afe000035'>Function 1 - hello world</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/Function1HelloWorld.java'>Function 1 - hello world</a>|
 |get character from ASCII Value|<a href='https://www.codewars.com/kata/55ad04714f0b468e8200001c'>get character from ASCII Value</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GetCharacterFromASCIIValue.java'>get character from ASCII Value</a>|
 |Get Nth Even Number|<a href='https://www.codewars.com/kata/5933a1f8552bc2750a0000ed'>Get Nth Even Number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GetNthEvenNumber.java'>Get Nth Even Number</a>|
 |Get the mean of an array|<a href='https://www.codewars.com/kata/563e320cee5dddcf77000158'>Get the mean of an array</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GetTheMeanOfAnArray.java'>Get the mean of an array</a>|
@@ -196,12 +205,4 @@
 |FIXME: Run, Runner!|<a href='https://www.codewars.com/kata/596b2b9d9e2fbd7811000046'>FIXME: Run, Runner!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMERunRunner.java'>FIXME: Run, Runner!</a>|
 |Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
 |Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
-<summary>SIX</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
-|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
 </details>
