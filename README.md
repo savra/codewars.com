@@ -3,6 +3,27 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Debug Sum of Digits of a Number|<a href='https://www.codewars.com/kata/563d59dd8e47a5ed220000ba'>Debug Sum of Digits of a Number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DebugSumOfDigitsOfANumber.java'>Debug Sum of Digits of a Number</a>|
+|FIXME: 1, 2, 3, 4|<a href='https://www.codewars.com/kata/5b13c699af73864aa7000031'>FIXME: 1, 2, 3, 4</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXME1234.java'>FIXME: 1, 2, 3, 4</a>|
+|FIXME: Get Full Name|<a href='https://www.codewars.com/kata/597c684822bc9388f600010f'>FIXME: Get Full Name</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMEGetFullName.java'>FIXME: Get Full Name</a>|
+|FIXME: Hours to Seconds|<a href='https://www.codewars.com/kata/596b041e224071ece200002e'>FIXME: Hours to Seconds</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMEHoursToSeconds.java'>FIXME: Hours to Seconds</a>|
+|FIXME: Run, Runner!|<a href='https://www.codewars.com/kata/596b2b9d9e2fbd7811000046'>FIXME: Run, Runner!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMERunRunner.java'>FIXME: Run, Runner!</a>|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
+</details>
+<details>
+<summary>SIX</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
+|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
+</details>
+<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -191,6 +212,7 @@
 |Unexpected parsing|<a href='https://www.codewars.com/kata/54fdaa4a50f167b5c000005f'>Unexpected parsing</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/UnexpectedParsing.java'>Unexpected parsing</a>|
 |Unfinished Loop - Bug Fixing #1|<a href='https://www.codewars.com/kata/55c28f7304e3eaebef0000da'>Unfinished Loop - Bug Fixing #1</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/UnfinishedLoopBugFixing.java'>Unfinished Loop - Bug Fixing #1</a>|
 |Volume of a Cuboid|<a href='https://www.codewars.com/kata/58261acb22be6e2ed800003a'>Volume of a Cuboid</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VolumeOfACuboid.java'>Volume of a Cuboid</a>|
+|Vowel remover|<a href='https://www.codewars.com/kata/5547929140907378f9000039'>Vowel remover</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelRemover.java'>Vowel remover</a>|
 |Welcome!|<a href='https://www.codewars.com/kata/577ff15ad648a14b780000e7'>Welcome!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/Welcome.java'>Welcome!</a>|
 |Welcome to the City|<a href='https://www.codewars.com/kata/5302d846be2a9189af0001e4'>Welcome to the City</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WelcomeToTheCity.java'>Welcome to the City</a>|
 |Well of Ideas - Easy Version|<a href='https://www.codewars.com/kata/57f222ce69e09c3630000212'>Well of Ideas - Easy Version</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WellOfIdeasEasyVersion.java'>Well of Ideas - Easy Version</a>|
@@ -200,25 +222,4 @@
 |Wilson primes|<a href='https://www.codewars.com/kata/55dc4520094bbaf50e0000cb'>Wilson primes</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WilsonPrimes.java'>Wilson primes</a>|
 |You Can't Code Under Pressure #1|<a href='https://www.codewars.com/kata/53ee5429ba190077850011d4'>You Can't Code Under Pressure #1</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouCantCodeUnderPressure1.java'>You Can't Code Under Pressure #1</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
-</details>
-<details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Debug Sum of Digits of a Number|<a href='https://www.codewars.com/kata/563d59dd8e47a5ed220000ba'>Debug Sum of Digits of a Number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DebugSumOfDigitsOfANumber.java'>Debug Sum of Digits of a Number</a>|
-|FIXME: 1, 2, 3, 4|<a href='https://www.codewars.com/kata/5b13c699af73864aa7000031'>FIXME: 1, 2, 3, 4</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXME1234.java'>FIXME: 1, 2, 3, 4</a>|
-|FIXME: Get Full Name|<a href='https://www.codewars.com/kata/597c684822bc9388f600010f'>FIXME: Get Full Name</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMEGetFullName.java'>FIXME: Get Full Name</a>|
-|FIXME: Hours to Seconds|<a href='https://www.codewars.com/kata/596b041e224071ece200002e'>FIXME: Hours to Seconds</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMEHoursToSeconds.java'>FIXME: Hours to Seconds</a>|
-|FIXME: Run, Runner!|<a href='https://www.codewars.com/kata/596b2b9d9e2fbd7811000046'>FIXME: Run, Runner!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMERunRunner.java'>FIXME: Run, Runner!</a>|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-</details>
-<details>
-<summary>SIX</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
-|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
 </details>
