@@ -3,14 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SIX</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
-|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -56,6 +48,7 @@
 |Determine offspring sex based on genes XX and XY chromosomes|<a href='https://www.codewars.com/kata/56530b444e831334c0000020'>Determine offspring sex based on genes XX and XY chromosomes</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DetermineOffspringSexBasedOnGenesXXAndXYChromosomes.java'>Determine offspring sex based on genes XX and XY chromosomes</a>|
 |Did she say hallo?|<a href='https://www.codewars.com/kata/56a4addbfd4a55694100001f'>Did she say hallo?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DidSheSayHallo.java'>Did she say hallo?</a>|
 |Difference of Volumes of Cuboids|<a href='https://www.codewars.com/kata/58cb43f4256836ed95000f97'>Difference of Volumes of Cuboids</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DifferenceOfVolumesOfCuboids.java'>Difference of Volumes of Cuboids</a>|
+|DNA to RNA Conversion|<a href='https://www.codewars.com/kata/5556282156230d0e5e000089'>DNA to RNA Conversion</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DNAToRNAConversion.java'>DNA to RNA Conversion</a>|
 |Do I get a bonus?|<a href='https://www.codewars.com/kata/56f6ad906b88de513f000d96'>Do I get a bonus?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DoIGetABonus.java'>Do I get a bonus?</a>|
 |Double Char|<a href='https://www.codewars.com/kata/56b1f01c247c01db92000076'>Double Char</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DoubleChar.java'>Double Char</a>|
 |Duck Duck Goose|<a href='https://www.codewars.com/kata/582e0e592029ea10530009ce'>Duck Duck Goose</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DuckDuckGoose.java'>Duck Duck Goose</a>|
@@ -220,4 +213,12 @@
 |FIXME: Run, Runner!|<a href='https://www.codewars.com/kata/596b2b9d9e2fbd7811000046'>FIXME: Run, Runner!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMERunRunner.java'>FIXME: Run, Runner!</a>|
 |Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
 |Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
+</details>
+<details>
+<summary>SIX</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
+|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
 </details>
