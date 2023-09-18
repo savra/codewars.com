@@ -10,6 +10,6 @@ import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 )
 public class YouCantCodeUnderPressure1 {
     public static int doubleInteger(int i) {
-        return i * i;
+        return i * 2;
     }
 }
