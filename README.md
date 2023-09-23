@@ -3,6 +3,14 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
+<summary>SIX</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
+|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
+</details>
+<details>
 <summary>SEVEN</summary>
 
 |Name|Problem|Solution|
@@ -16,6 +24,7 @@
 |FIXME: Run, Runner!|<a href='https://www.codewars.com/kata/596b2b9d9e2fbd7811000046'>FIXME: Run, Runner!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMERunRunner.java'>FIXME: Run, Runner!</a>|
 |Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
 |Linked Lists - Append|<a href='https://www.codewars.com/kata/55d17ddd6d7868493e000074'>Linked Lists - Append</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsAppend.java'>Linked Lists - Append</a>|
+|Linked Lists - Get Nth Node|<a href='https://www.codewars.com/kata/55befc42bfe4d13ab1000007'>Linked Lists - Get Nth Node</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsGetNthNode.java'>Linked Lists - Get Nth Node</a>|
 |Linked Lists - Push & BuildOneTwoThree|<a href='https://www.codewars.com/kata/55be95786abade3c71000079'>Linked Lists - Push & BuildOneTwoThree</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsPushBuildOneTwoThree.java'>Linked Lists - Push & BuildOneTwoThree</a>|
 |List Filtering|<a href='https://www.codewars.com/kata/53dbd5315a3c69eed20002dd'>List Filtering</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ListFiltering.java'>List Filtering</a>|
 |Square Every Digit|<a href='https://www.codewars.com/kata/546e2562b03326a88e000020'>Square Every Digit</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SquareEveryDigit.java'>Square Every Digit</a>|
@@ -224,12 +233,4 @@
 |Wilson primes|<a href='https://www.codewars.com/kata/55dc4520094bbaf50e0000cb'>Wilson primes</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WilsonPrimes.java'>Wilson primes</a>|
 |You Can't Code Under Pressure #1|<a href='https://www.codewars.com/kata/53ee5429ba190077850011d4'>You Can't Code Under Pressure #1</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouCantCodeUnderPressure1.java'>You Can't Code Under Pressure #1</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
-</details>
-<details>
-<summary>SIX</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
-|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
 </details>
