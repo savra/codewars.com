@@ -3,12 +3,23 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>SIX</summary>
+<summary>SEVEN</summary>
 
 |Name|Problem|Solution|
 |---|---|---|
-|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
-|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
+|Convert a linked list to a string|<a href='https://www.codewars.com/kata/582c297e56373f0426000098'>Convert a linked list to a string</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ConvertALinkedListToAString.java'>Convert a linked list to a string</a>|
+|Debug Sum of Digits of a Number|<a href='https://www.codewars.com/kata/563d59dd8e47a5ed220000ba'>Debug Sum of Digits of a Number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DebugSumOfDigitsOfANumber.java'>Debug Sum of Digits of a Number</a>|
+|Disemvowel Trolls|<a href='https://www.codewars.com/kata/52fba66badcd10859f00097e'>Disemvowel Trolls</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DisemvowelTrolls.java'>Disemvowel Trolls</a>|
+|FIXME: 1, 2, 3, 4|<a href='https://www.codewars.com/kata/5b13c699af73864aa7000031'>FIXME: 1, 2, 3, 4</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXME1234.java'>FIXME: 1, 2, 3, 4</a>|
+|FIXME: Get Full Name|<a href='https://www.codewars.com/kata/597c684822bc9388f600010f'>FIXME: Get Full Name</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMEGetFullName.java'>FIXME: Get Full Name</a>|
+|FIXME: Hours to Seconds|<a href='https://www.codewars.com/kata/596b041e224071ece200002e'>FIXME: Hours to Seconds</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMEHoursToSeconds.java'>FIXME: Hours to Seconds</a>|
+|FIXME: Run, Runner!|<a href='https://www.codewars.com/kata/596b2b9d9e2fbd7811000046'>FIXME: Run, Runner!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMERunRunner.java'>FIXME: Run, Runner!</a>|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Linked Lists - Append|<a href='https://www.codewars.com/kata/55d17ddd6d7868493e000074'>Linked Lists - Append</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsAppend.java'>Linked Lists - Append</a>|
+|Linked Lists - Push & BuildOneTwoThree|<a href='https://www.codewars.com/kata/55be95786abade3c71000079'>Linked Lists - Push & BuildOneTwoThree</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsPushBuildOneTwoThree.java'>Linked Lists - Push & BuildOneTwoThree</a>|
+|List Filtering|<a href='https://www.codewars.com/kata/53dbd5315a3c69eed20002dd'>List Filtering</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ListFiltering.java'>List Filtering</a>|
+|Square Every Digit|<a href='https://www.codewars.com/kata/546e2562b03326a88e000020'>Square Every Digit</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SquareEveryDigit.java'>Square Every Digit</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 </details>
 <details>
 <summary>EIGHT</summary>
@@ -215,20 +226,10 @@
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
 </details>
 <details>
-<summary>SEVEN</summary>
+<summary>SIX</summary>
 
 |Name|Problem|Solution|
 |---|---|---|
-|Convert a linked list to a string|<a href='https://www.codewars.com/kata/582c297e56373f0426000098'>Convert a linked list to a string</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ConvertALinkedListToAString.java'>Convert a linked list to a string</a>|
-|Debug Sum of Digits of a Number|<a href='https://www.codewars.com/kata/563d59dd8e47a5ed220000ba'>Debug Sum of Digits of a Number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DebugSumOfDigitsOfANumber.java'>Debug Sum of Digits of a Number</a>|
-|Disemvowel Trolls|<a href='https://www.codewars.com/kata/52fba66badcd10859f00097e'>Disemvowel Trolls</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DisemvowelTrolls.java'>Disemvowel Trolls</a>|
-|FIXME: 1, 2, 3, 4|<a href='https://www.codewars.com/kata/5b13c699af73864aa7000031'>FIXME: 1, 2, 3, 4</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXME1234.java'>FIXME: 1, 2, 3, 4</a>|
-|FIXME: Get Full Name|<a href='https://www.codewars.com/kata/597c684822bc9388f600010f'>FIXME: Get Full Name</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMEGetFullName.java'>FIXME: Get Full Name</a>|
-|FIXME: Hours to Seconds|<a href='https://www.codewars.com/kata/596b041e224071ece200002e'>FIXME: Hours to Seconds</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMEHoursToSeconds.java'>FIXME: Hours to Seconds</a>|
-|FIXME: Run, Runner!|<a href='https://www.codewars.com/kata/596b2b9d9e2fbd7811000046'>FIXME: Run, Runner!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMERunRunner.java'>FIXME: Run, Runner!</a>|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Linked Lists - Append|<a href='https://www.codewars.com/kata/55d17ddd6d7868493e000074'>Linked Lists - Append</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsAppend.java'>Linked Lists - Append</a>|
-|List Filtering|<a href='https://www.codewars.com/kata/53dbd5315a3c69eed20002dd'>List Filtering</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ListFiltering.java'>List Filtering</a>|
-|Square Every Digit|<a href='https://www.codewars.com/kata/546e2562b03326a88e000020'>Square Every Digit</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SquareEveryDigit.java'>Square Every Digit</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
+|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
+|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
 </details>
