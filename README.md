@@ -3,13 +3,6 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
-<summary>FIVE</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Can you get the loop ?|<a href='https://www.codewars.com/kata/52a89c2ea8ddc5547a000863'>Can you get the loop ?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CanYouGetTheLoop.java'>Can you get the loop ?</a>|
-</details>
-<details>
 <summary>SIX</summary>
 
 |Name|Problem|Solution|
@@ -17,6 +10,13 @@
 |Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
 |Multiples of 3 or 5|<a href='https://www.codewars.com/kata/514b92a657cdc65150000006'>Multiples of 3 or 5</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/MultiplesOf3Or5.java'>Multiples of 3 or 5</a>|
 |Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
+</details>
+<details>
+<summary>FIVE</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Can you get the loop ?|<a href='https://www.codewars.com/kata/52a89c2ea8ddc5547a000863'>Can you get the loop ?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CanYouGetTheLoop.java'>Can you get the loop ?</a>|
 </details>
 <details>
 <summary>EIGHT</summary>
@@ -242,6 +242,7 @@
 |Linked Lists - Get Nth Node|<a href='https://www.codewars.com/kata/55befc42bfe4d13ab1000007'>Linked Lists - Get Nth Node</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsGetNthNode.java'>Linked Lists - Get Nth Node</a>|
 |Linked Lists - Push & BuildOneTwoThree|<a href='https://www.codewars.com/kata/55be95786abade3c71000079'>Linked Lists - Push & BuildOneTwoThree</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsPushBuildOneTwoThree.java'>Linked Lists - Push & BuildOneTwoThree</a>|
 |List Filtering|<a href='https://www.codewars.com/kata/53dbd5315a3c69eed20002dd'>List Filtering</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ListFiltering.java'>List Filtering</a>|
+|Ones and Zeros|<a href='https://www.codewars.com/kata/578553c3a1b8d5c40300037c'>Ones and Zeros</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/OnesAndZeros.java'>Ones and Zeros</a>|
 |Square Every Digit|<a href='https://www.codewars.com/kata/546e2562b03326a88e000020'>Square Every Digit</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SquareEveryDigit.java'>Square Every Digit</a>|
 |Supernatural|<a href='https://www.codewars.com/kata/55c9a8cda33889d69e00008b'>Supernatural</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/Supernatural.java'>Supernatural</a>|
 |Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
