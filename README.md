@@ -3,12 +3,22 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
+<summary>SIX</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
+|Multiples of 3 or 5|<a href='https://www.codewars.com/kata/514b92a657cdc65150000006'>Multiples of 3 or 5</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/MultiplesOf3Or5.java'>Multiples of 3 or 5</a>|
+|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
+</details>
+<details>
 <summary>SEVEN</summary>
 
 |Name|Problem|Solution|
 |---|---|---|
 |Collatz Conjecture Length|<a href='https://www.codewars.com/kata/54fb963d3fe32351f2000102'>Collatz Conjecture Length</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CollatzConjectureLength.java'>Collatz Conjecture Length</a>|
 |Compare Strings by Sum of Chars|<a href='https://www.codewars.com/kata/576bb3c4b1abc497ec000065'>Compare Strings by Sum of Chars</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CompareStringsBySumOfChars.java'>Compare Strings by Sum of Chars</a>|
+|Consecutive letters|<a href='https://www.codewars.com/kata/5ce6728c939bf80029988b57'>Consecutive letters</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ConsecutiveLetters.java'>Consecutive letters</a>|
 |Convert a linked list to a string|<a href='https://www.codewars.com/kata/582c297e56373f0426000098'>Convert a linked list to a string</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ConvertALinkedListToAString.java'>Convert a linked list to a string</a>|
 |Debug Sum of Digits of a Number|<a href='https://www.codewars.com/kata/563d59dd8e47a5ed220000ba'>Debug Sum of Digits of a Number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DebugSumOfDigitsOfANumber.java'>Debug Sum of Digits of a Number</a>|
 |Disemvowel Trolls|<a href='https://www.codewars.com/kata/52fba66badcd10859f00097e'>Disemvowel Trolls</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DisemvowelTrolls.java'>Disemvowel Trolls</a>|
@@ -28,6 +38,13 @@
 |Supernatural|<a href='https://www.codewars.com/kata/55c9a8cda33889d69e00008b'>Supernatural</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/Supernatural.java'>Supernatural</a>|
 |Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 |You're a square!|<a href='https://www.codewars.com/kata/54c27a33fb7da0db0100040e'>You're a square!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YoureASquare.java'>You're a square!</a>|
+</details>
+<details>
+<summary>FIVE</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Can you get the loop ?|<a href='https://www.codewars.com/kata/52a89c2ea8ddc5547a000863'>Can you get the loop ?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CanYouGetTheLoop.java'>Can you get the loop ?</a>|
 </details>
 <details>
 <summary>EIGHT</summary>
@@ -232,20 +249,4 @@
 |Wilson primes|<a href='https://www.codewars.com/kata/55dc4520094bbaf50e0000cb'>Wilson primes</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/WilsonPrimes.java'>Wilson primes</a>|
 |You Can't Code Under Pressure #1|<a href='https://www.codewars.com/kata/53ee5429ba190077850011d4'>You Can't Code Under Pressure #1</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouCantCodeUnderPressure1.java'>You Can't Code Under Pressure #1</a>|
 |You only need one - Beginner|<a href='https://www.codewars.com/kata/57cc975ed542d3148f00015b'>You only need one - Beginner</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|
-</details>
-<details>
-<summary>SIX</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
-|Multiples of 3 or 5|<a href='https://www.codewars.com/kata/514b92a657cdc65150000006'>Multiples of 3 or 5</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/MultiplesOf3Or5.java'>Multiples of 3 or 5</a>|
-|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
-</details>
-<details>
-<summary>FIVE</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Can you get the loop ?|<a href='https://www.codewars.com/kata/52a89c2ea8ddc5547a000863'>Can you get the loop ?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CanYouGetTheLoop.java'>Can you get the loop ?</a>|
 </details>
