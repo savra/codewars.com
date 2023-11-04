@@ -12,6 +12,13 @@
 |Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
 </details>
 <details>
+<summary>FIVE</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Can you get the loop ?|<a href='https://www.codewars.com/kata/52a89c2ea8ddc5547a000863'>Can you get the loop ?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CanYouGetTheLoop.java'>Can you get the loop ?</a>|
+</details>
+<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -222,6 +229,7 @@
 
 |Name|Problem|Solution|
 |---|---|---|
+|Bubblesort Once|<a href='https://www.codewars.com/kata/56b97b776ffcea598a0006f2'>Bubblesort Once</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/BubblesortOnce.java'>Bubblesort Once</a>|
 |Collatz Conjecture Length|<a href='https://www.codewars.com/kata/54fb963d3fe32351f2000102'>Collatz Conjecture Length</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CollatzConjectureLength.java'>Collatz Conjecture Length</a>|
 |Common Substrings|<a href='https://www.codewars.com/kata/5669a5113c8ebf16ed00004c'>Common Substrings</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CommonSubstrings.java'>Common Substrings</a>|
 |Compare Strings by Sum of Chars|<a href='https://www.codewars.com/kata/576bb3c4b1abc497ec000065'>Compare Strings by Sum of Chars</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CompareStringsBySumOfChars.java'>Compare Strings by Sum of Chars</a>|
@@ -254,11 +262,4 @@
 |Uglify Word|<a href='https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929'>Uglify Word</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/UglifyWord.java'>Uglify Word</a>|
 |Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
 |You're a square!|<a href='https://www.codewars.com/kata/54c27a33fb7da0db0100040e'>You're a square!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YoureASquare.java'>You're a square!</a>|
-</details>
-<details>
-<summary>FIVE</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Can you get the loop ?|<a href='https://www.codewars.com/kata/52a89c2ea8ddc5547a000863'>Can you get the loop ?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CanYouGetTheLoop.java'>Can you get the loop ?</a>|
 </details>
