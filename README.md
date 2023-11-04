@@ -3,6 +3,50 @@
 ### ## Solving problems on codewars.com
 ### Solutions by difficulty
 <details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Collatz Conjecture Length|<a href='https://www.codewars.com/kata/54fb963d3fe32351f2000102'>Collatz Conjecture Length</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CollatzConjectureLength.java'>Collatz Conjecture Length</a>|
+|Common Substrings|<a href='https://www.codewars.com/kata/5669a5113c8ebf16ed00004c'>Common Substrings</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CommonSubstrings.java'>Common Substrings</a>|
+|Compare Strings by Sum of Chars|<a href='https://www.codewars.com/kata/576bb3c4b1abc497ec000065'>Compare Strings by Sum of Chars</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CompareStringsBySumOfChars.java'>Compare Strings by Sum of Chars</a>|
+|Consecutive letters|<a href='https://www.codewars.com/kata/5ce6728c939bf80029988b57'>Consecutive letters</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ConsecutiveLetters.java'>Consecutive letters</a>|
+|Convert a linked list to a string|<a href='https://www.codewars.com/kata/582c297e56373f0426000098'>Convert a linked list to a string</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ConvertALinkedListToAString.java'>Convert a linked list to a string</a>|
+|Debug Sum of Digits of a Number|<a href='https://www.codewars.com/kata/563d59dd8e47a5ed220000ba'>Debug Sum of Digits of a Number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DebugSumOfDigitsOfANumber.java'>Debug Sum of Digits of a Number</a>|
+|Disemvowel Trolls|<a href='https://www.codewars.com/kata/52fba66badcd10859f00097e'>Disemvowel Trolls</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DisemvowelTrolls.java'>Disemvowel Trolls</a>|
+|Find Max Tree Node|<a href='https://www.codewars.com/kata/5a04450c8ba914083700000a'>Find Max Tree Node</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FindMaxTreeNode.java'>Find Max Tree Node</a>|
+|FIXME: 1, 2, 3, 4|<a href='https://www.codewars.com/kata/5b13c699af73864aa7000031'>FIXME: 1, 2, 3, 4</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXME1234.java'>FIXME: 1, 2, 3, 4</a>|
+|FIXME: Get Full Name|<a href='https://www.codewars.com/kata/597c684822bc9388f600010f'>FIXME: Get Full Name</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMEGetFullName.java'>FIXME: Get Full Name</a>|
+|FIXME: Hours to Seconds|<a href='https://www.codewars.com/kata/596b041e224071ece200002e'>FIXME: Hours to Seconds</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMEHoursToSeconds.java'>FIXME: Hours to Seconds</a>|
+|FIXME: Run, Runner!|<a href='https://www.codewars.com/kata/596b2b9d9e2fbd7811000046'>FIXME: Run, Runner!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMERunRunner.java'>FIXME: Run, Runner!</a>|
+|From A to Z|<a href='https://www.codewars.com/kata/6512b3775bf8500baea77663'>From A to Z</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FromAToZ.java'>From A to Z</a>|
+|Get the Middle Character|<a href='https://www.codewars.com/kata/56747fd5cb988479af000028'>Get the Middle Character</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GetTheMiddleCharacter.java'>Get the Middle Character</a>|
+|Highest and Lowest|<a href='https://www.codewars.com/kata/554b4ac871d6813a03000035'>Highest and Lowest</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/HighestAndLowest.java'>Highest and Lowest</a>|
+|Leap Years|<a href='https://www.codewars.com/kata/526c7363236867513f0005ca'>Leap Years</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LeapYears.java'>Leap Years</a>|
+|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
+|Linked Lists - Append|<a href='https://www.codewars.com/kata/55d17ddd6d7868493e000074'>Linked Lists - Append</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsAppend.java'>Linked Lists - Append</a>|
+|Linked Lists - Get Nth Node|<a href='https://www.codewars.com/kata/55befc42bfe4d13ab1000007'>Linked Lists - Get Nth Node</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsGetNthNode.java'>Linked Lists - Get Nth Node</a>|
+|Linked Lists - Push & BuildOneTwoThree|<a href='https://www.codewars.com/kata/55be95786abade3c71000079'>Linked Lists - Push & BuildOneTwoThree</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsPushBuildOneTwoThree.java'>Linked Lists - Push & BuildOneTwoThree</a>|
+|List Filtering|<a href='https://www.codewars.com/kata/53dbd5315a3c69eed20002dd'>List Filtering</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ListFiltering.java'>List Filtering</a>|
+|Nickname Generator|<a href='https://www.codewars.com/kata/593b1909e68ff627c9000186'>Nickname Generator</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/NicknameGenerator.java'>Nickname Generator</a>|
+|Number-Star ladder|<a href='https://www.codewars.com/kata/5631213916d70a0979000066'>Number-Star ladder</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/NumberStarLadder.java'>Number-Star ladder</a>|
+|Ones and Zeros|<a href='https://www.codewars.com/kata/578553c3a1b8d5c40300037c'>Ones and Zeros</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/OnesAndZeros.java'>Ones and Zeros</a>|
+|Simple beads count|<a href='https://www.codewars.com/kata/58712dfa5c538b6fc7000569'>Simple beads count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SimpleBeadsCount.java'>Simple beads count</a>|
+|Square Every Digit|<a href='https://www.codewars.com/kata/546e2562b03326a88e000020'>Square Every Digit</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SquareEveryDigit.java'>Square Every Digit</a>|
+|Supernatural|<a href='https://www.codewars.com/kata/55c9a8cda33889d69e00008b'>Supernatural</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/Supernatural.java'>Supernatural</a>|
+|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
+|You're a square!|<a href='https://www.codewars.com/kata/54c27a33fb7da0db0100040e'>You're a square!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YoureASquare.java'>You're a square!</a>|
+</details>
+<details>
+<summary>SIX</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
+|Multiples of 3 or 5|<a href='https://www.codewars.com/kata/514b92a657cdc65150000006'>Multiples of 3 or 5</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/MultiplesOf3Or5.java'>Multiples of 3 or 5</a>|
+|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
+</details>
+<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|
@@ -214,47 +258,4 @@
 |Name|Problem|Solution|
 |---|---|---|
 |Can you get the loop ?|<a href='https://www.codewars.com/kata/52a89c2ea8ddc5547a000863'>Can you get the loop ?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CanYouGetTheLoop.java'>Can you get the loop ?</a>|
-</details>
-<details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Collatz Conjecture Length|<a href='https://www.codewars.com/kata/54fb963d3fe32351f2000102'>Collatz Conjecture Length</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CollatzConjectureLength.java'>Collatz Conjecture Length</a>|
-|Common Substrings|<a href='https://www.codewars.com/kata/5669a5113c8ebf16ed00004c'>Common Substrings</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CommonSubstrings.java'>Common Substrings</a>|
-|Compare Strings by Sum of Chars|<a href='https://www.codewars.com/kata/576bb3c4b1abc497ec000065'>Compare Strings by Sum of Chars</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CompareStringsBySumOfChars.java'>Compare Strings by Sum of Chars</a>|
-|Consecutive letters|<a href='https://www.codewars.com/kata/5ce6728c939bf80029988b57'>Consecutive letters</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ConsecutiveLetters.java'>Consecutive letters</a>|
-|Convert a linked list to a string|<a href='https://www.codewars.com/kata/582c297e56373f0426000098'>Convert a linked list to a string</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ConvertALinkedListToAString.java'>Convert a linked list to a string</a>|
-|Debug Sum of Digits of a Number|<a href='https://www.codewars.com/kata/563d59dd8e47a5ed220000ba'>Debug Sum of Digits of a Number</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DebugSumOfDigitsOfANumber.java'>Debug Sum of Digits of a Number</a>|
-|Disemvowel Trolls|<a href='https://www.codewars.com/kata/52fba66badcd10859f00097e'>Disemvowel Trolls</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DisemvowelTrolls.java'>Disemvowel Trolls</a>|
-|Find Max Tree Node|<a href='https://www.codewars.com/kata/5a04450c8ba914083700000a'>Find Max Tree Node</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FindMaxTreeNode.java'>Find Max Tree Node</a>|
-|FIXME: 1, 2, 3, 4|<a href='https://www.codewars.com/kata/5b13c699af73864aa7000031'>FIXME: 1, 2, 3, 4</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXME1234.java'>FIXME: 1, 2, 3, 4</a>|
-|FIXME: Get Full Name|<a href='https://www.codewars.com/kata/597c684822bc9388f600010f'>FIXME: Get Full Name</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMEGetFullName.java'>FIXME: Get Full Name</a>|
-|FIXME: Hours to Seconds|<a href='https://www.codewars.com/kata/596b041e224071ece200002e'>FIXME: Hours to Seconds</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMEHoursToSeconds.java'>FIXME: Hours to Seconds</a>|
-|FIXME: Run, Runner!|<a href='https://www.codewars.com/kata/596b2b9d9e2fbd7811000046'>FIXME: Run, Runner!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FIXMERunRunner.java'>FIXME: Run, Runner!</a>|
-|From A to Z|<a href='https://www.codewars.com/kata/6512b3775bf8500baea77663'>From A to Z</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/FromAToZ.java'>From A to Z</a>|
-|Get the Middle Character|<a href='https://www.codewars.com/kata/56747fd5cb988479af000028'>Get the Middle Character</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/GetTheMiddleCharacter.java'>Get the Middle Character</a>|
-|Highest and Lowest|<a href='https://www.codewars.com/kata/554b4ac871d6813a03000035'>Highest and Lowest</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/HighestAndLowest.java'>Highest and Lowest</a>|
-|Leap Years|<a href='https://www.codewars.com/kata/526c7363236867513f0005ca'>Leap Years</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LeapYears.java'>Leap Years</a>|
-|Length and two values|<a href='https://www.codewars.com/kata/62a611067274990047f431a8'>Length and two values</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LengthAndTwoValues.java'>Length and two values</a>|
-|Linked Lists - Append|<a href='https://www.codewars.com/kata/55d17ddd6d7868493e000074'>Linked Lists - Append</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsAppend.java'>Linked Lists - Append</a>|
-|Linked Lists - Get Nth Node|<a href='https://www.codewars.com/kata/55befc42bfe4d13ab1000007'>Linked Lists - Get Nth Node</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsGetNthNode.java'>Linked Lists - Get Nth Node</a>|
-|Linked Lists - Push & BuildOneTwoThree|<a href='https://www.codewars.com/kata/55be95786abade3c71000079'>Linked Lists - Push & BuildOneTwoThree</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsPushBuildOneTwoThree.java'>Linked Lists - Push & BuildOneTwoThree</a>|
-|List Filtering|<a href='https://www.codewars.com/kata/53dbd5315a3c69eed20002dd'>List Filtering</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ListFiltering.java'>List Filtering</a>|
-|Nickname Generator|<a href='https://www.codewars.com/kata/593b1909e68ff627c9000186'>Nickname Generator</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/NicknameGenerator.java'>Nickname Generator</a>|
-|Ones and Zeros|<a href='https://www.codewars.com/kata/578553c3a1b8d5c40300037c'>Ones and Zeros</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/OnesAndZeros.java'>Ones and Zeros</a>|
-|Simple beads count|<a href='https://www.codewars.com/kata/58712dfa5c538b6fc7000569'>Simple beads count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SimpleBeadsCount.java'>Simple beads count</a>|
-|Square Every Digit|<a href='https://www.codewars.com/kata/546e2562b03326a88e000020'>Square Every Digit</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/SquareEveryDigit.java'>Square Every Digit</a>|
-|Supernatural|<a href='https://www.codewars.com/kata/55c9a8cda33889d69e00008b'>Supernatural</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/Supernatural.java'>Supernatural</a>|
-|Vowel Count|<a href='https://www.codewars.com/kata/54ff3102c1bad923760001f3'>Vowel Count</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/VowelCount.java'>Vowel Count</a>|
-|You're a square!|<a href='https://www.codewars.com/kata/54c27a33fb7da0db0100040e'>You're a square!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YoureASquare.java'>You're a square!</a>|
-</details>
-<details>
-<summary>SIX</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
-|Multiples of 3 or 5|<a href='https://www.codewars.com/kata/514b92a657cdc65150000006'>Multiples of 3 or 5</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/MultiplesOf3Or5.java'>Multiples of 3 or 5</a>|
-|Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
 </details>
