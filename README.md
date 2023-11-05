@@ -31,6 +31,7 @@
 |Linked Lists - Push & BuildOneTwoThree|<a href='https://www.codewars.com/kata/55be95786abade3c71000079'>Linked Lists - Push & BuildOneTwoThree</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/LinkedListsPushBuildOneTwoThree.java'>Linked Lists - Push & BuildOneTwoThree</a>|
 |List Filtering|<a href='https://www.codewars.com/kata/53dbd5315a3c69eed20002dd'>List Filtering</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/ListFiltering.java'>List Filtering</a>|
 |Nickname Generator|<a href='https://www.codewars.com/kata/593b1909e68ff627c9000186'>Nickname Generator</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/NicknameGenerator.java'>Nickname Generator</a>|
+|Number of Decimal Digits|<a href='https://www.codewars.com/kata/58fa273ca6d84c158e000052'>Number of Decimal Digits</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/NumberOfDecimalDigits.java'>Number of Decimal Digits</a>|
 |Number-Star ladder|<a href='https://www.codewars.com/kata/5631213916d70a0979000066'>Number-Star ladder</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/NumberStarLadder.java'>Number-Star ladder</a>|
 |Ones and Zeros|<a href='https://www.codewars.com/kata/578553c3a1b8d5c40300037c'>Ones and Zeros</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/OnesAndZeros.java'>Ones and Zeros</a>|
 |Page replacement algorithms: FIFO|<a href='https://www.codewars.com/kata/62d34faad32b8c002a17d6d9'>Page replacement algorithms: FIFO</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/PageReplacementAlgorithmsFIFO.java'>Page replacement algorithms: FIFO</a>|
@@ -43,6 +44,13 @@
 |You're a square!|<a href='https://www.codewars.com/kata/54c27a33fb7da0db0100040e'>You're a square!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/YoureASquare.java'>You're a square!</a>|
 </details>
 <details>
+<summary>FIVE</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Can you get the loop ?|<a href='https://www.codewars.com/kata/52a89c2ea8ddc5547a000863'>Can you get the loop ?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CanYouGetTheLoop.java'>Can you get the loop ?</a>|
+</details>
+<details>
 <summary>SIX</summary>
 
 |Name|Problem|Solution|
@@ -50,13 +58,6 @@
 |Dude, my computer cannot count!|<a href='https://www.codewars.com/kata/58fa9898dfec0ef150000014'>Dude, my computer cannot count!</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|
 |Multiples of 3 or 5|<a href='https://www.codewars.com/kata/514b92a657cdc65150000006'>Multiples of 3 or 5</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/MultiplesOf3Or5.java'>Multiples of 3 or 5</a>|
 |Round and Round|<a href='https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0'>Round and Round</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/RoundAndRound.java'>Round and Round</a>|
-</details>
-<details>
-<summary>FIVE</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Can you get the loop ?|<a href='https://www.codewars.com/kata/52a89c2ea8ddc5547a000863'>Can you get the loop ?</a>|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/javatask/CanYouGetTheLoop.java'>Can you get the loop ?</a>|
 </details>
 <details>
 <summary>EIGHT</summary>
