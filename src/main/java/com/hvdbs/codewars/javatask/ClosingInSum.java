@@ -12,7 +12,6 @@ public class ClosingInSum {
         int[] tmp = new int[(int) Math.log10(n) + 1];
 
         int i = 0;
-
         int sum = 0;
 
         while (n > 0) {
