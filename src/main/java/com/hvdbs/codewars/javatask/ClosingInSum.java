@@ -3,6 +3,8 @@ package com.hvdbs.codewars.javatask;
 import com.hvdbs.codewars.statgenerator.CodewarsInfo;
 import com.hvdbs.codewars.statgenerator.enums.Difficulty;
 
+import java.util.function.Consumer;
+
 @CodewarsInfo(
         difficulty = Difficulty.SEVEN,
         name = "Closing in Sum",
@@ -12,7 +14,6 @@ public class ClosingInSum {
         int[] tmp = new int[(int) Math.log10(n) + 1];
 
         int i = 0;
-
         int sum = 0;
 
         while (n > 0) {
