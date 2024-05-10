@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Stringy Strings",
-        url = "https://www.codewars.com/kata/563b74ddd19a3ad462000054"
-)
+        url = "https://www.codewars.com/kata/563b74ddd19a3ad462000054",
+        spaceComplexity = "O(N)",
+        timeComplexity = "O(N)")
 public class StringyStrings {
-    //My Time Complexity: O(n)
-    //My Space complexity: O(n)
     public static String stringy(int size) {
         StringBuilder sb = new StringBuilder();
 

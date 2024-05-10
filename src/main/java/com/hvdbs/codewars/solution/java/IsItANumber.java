@@ -6,10 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Is it a number?",
-        url = "https://www.codewars.com/kata/57126304cdbf63c6770012bd")
+        url = "https://www.codewars.com/kata/57126304cdbf63c6770012bd",
+        timeComplexity = "O(1)",
+        spaceComplexity = "O(1)")
 public class IsItANumber {
-    //My Time Complexity: O(1)
-    //My Space complexity: O(1)
     public boolean isDigit(String s) {
         boolean isDigit;
 

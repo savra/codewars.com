@@ -6,8 +6,9 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.SEVEN,
         name = "Convert a linked list to a string",
-        url = "https://www.codewars.com/kata/582c297e56373f0426000098"
-)
+        url = "https://www.codewars.com/kata/582c297e56373f0426000098",
+        timeComplexity = "O(N)",
+        spaceComplexity = "O(N)")
 public class ConvertALinkedListToAString {
     class Node {
         private int data;
@@ -31,8 +32,7 @@ public class ConvertALinkedListToAString {
             return next;
         }
     }
-    //My Time Complexity: O(n)
-    //My Space complexity: O(n)
+
     public static String stringify(Node list) {
         StringBuilder sb = new StringBuilder();
 
@@ -40,7 +40,7 @@ public class ConvertALinkedListToAString {
             return "null";
         }
 
-        for(Node cur = list; cur != null; cur = cur.getNext()) {
+        for (Node cur = list; cur != null; cur = cur.getNext()) {
             sb.append(cur.getData()).append(" -> ");
         }
 

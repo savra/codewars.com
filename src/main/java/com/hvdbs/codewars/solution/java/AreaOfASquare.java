@@ -6,12 +6,12 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Area of a Square",
-        url = "https://www.codewars.com/kata/5748838ce2fab90b86001b1a"
+        url = "https://www.codewars.com/kata/5748838ce2fab90b86001b1a",
+        spaceComplexity = "O(1)",
+        timeComplexity = "O(1)"
 )
 public class AreaOfASquare {
-    //My Time Complexity: O(1)
-    //My Space complexity: O(1)
-    public static double squareArea(double A){
+    public static double squareArea(double A) {
         double l = A * 4;
         double r = l / (2 * Math.PI);
 

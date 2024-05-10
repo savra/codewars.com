@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Find Multiples of a Number",
-        url = "https://www.codewars.com/kata/58ca658cc0d6401f2700045f")
+        url = "https://www.codewars.com/kata/58ca658cc0d6401f2700045f",
+        spaceComplexity = "O(N)",
+        timeComplexity = "O(N)")
 public class FindMultiplesOfANumber {
-    //My Time Complexity: O(n)
-    //My Space complexity: O(n)
-
     public static int[] find(int base, int limit) {
         java.util.List<Integer> result = new java.util.ArrayList<>();
         int tmp = base;

@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Count of positives / sum of negatives",
-        url = "https://www.codewars.com/kata/576bb71bbbcf0951d5000044"
-)
+        url = "https://www.codewars.com/kata/576bb71bbbcf0951d5000044",
+        spaceComplexity = "O(1)",
+        timeComplexity = "O(N)")
 public class CountOfPositivesSumOfNegatives {
-    //My Time Complexity: O(n)
-    //My Auxiliary Space: O(1)
     public static int[] countPositivesSumNegatives(int[] input) {
         int[] result = new int[2];
 

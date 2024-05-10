@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Pillars",
-        url = "https://www.codewars.com/kata/5bb0c58f484fcd170700063d"
-)
+        url = "https://www.codewars.com/kata/5bb0c58f484fcd170700063d",
+        timeComplexity = "O(1)",
+        spaceComplexity = "O(1)")
 public class Pillars {
-    //My Time Complexity: O(1)
-    //My Space complexity: O(1)
     public static int pillars(int numPill, int dist, int width) {
         if (numPill == 1) {
             return 0;

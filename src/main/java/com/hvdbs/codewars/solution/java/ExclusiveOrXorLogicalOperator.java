@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Exclusive \"or\" (xor) Logical Operator",
-        url = "https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c"
-)
+        url = "https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c",
+        spaceComplexity = "O(1)",
+        timeComplexity = "O(1)")
 public class ExclusiveOrXorLogicalOperator {
-    //My Time Complexity: O(1)
-    //My Space complexity: O(1)
     public static boolean xor(boolean a, boolean b) {
         return a ^ b;
     }

@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.SEVEN,
         name = "Linked Lists - Append",
-        url = "https://www.codewars.com/kata/55d17ddd6d7868493e000074"
-)
+        url = "https://www.codewars.com/kata/55d17ddd6d7868493e000074",
+        spaceComplexity = "O(1)",
+        timeComplexity = "O(N)")
 public class LinkedListsAppend {
-    //My Time Complexity: O(n)
-    //My Space complexity: O(1)
     class Node {
 
         int data;

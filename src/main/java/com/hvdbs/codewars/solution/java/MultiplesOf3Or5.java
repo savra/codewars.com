@@ -6,10 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.SIX,
         name = "Multiples of 3 or 5",
-        url = "https://www.codewars.com/kata/514b92a657cdc65150000006"
-)
+        url = "https://www.codewars.com/kata/514b92a657cdc65150000006",
+        timeComplexity = "O(LogN)",
+        spaceComplexity = "O(1)")
 public class MultiplesOf3Or5 {
-    //TC: O(LogN), SC: O(1)
     public int solution(int n) {
         int sum = 0;
 

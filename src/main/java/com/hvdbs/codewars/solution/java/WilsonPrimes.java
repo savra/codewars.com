@@ -9,11 +9,10 @@ import java.math.RoundingMode;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Wilson primes",
-        url = "https://www.codewars.com/kata/55dc4520094bbaf50e0000cb"
-)
+        url = "https://www.codewars.com/kata/55dc4520094bbaf50e0000cb",
+        spaceComplexity = "O(1)",
+        timeComplexity = "O(N)")
 public class WilsonPrimes {
-    //My Time Complexity: O(n)
-    //My Space complexity: O(1)
     public static boolean am_i_wilson(double n) {
         if (n == 0 || n == 1) {
             return false;

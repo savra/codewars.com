@@ -6,11 +6,11 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "altERnaTIng cAsE <=> ALTerNAtiNG CaSe",
-        url = "https://www.codewars.com/kata/56efc695740d30f963000557"
+        url = "https://www.codewars.com/kata/56efc695740d30f963000557",
+        timeComplexity = "O(N)",
+        spaceComplexity = "O(N)"
 )
 public class AltERnaTIngCAsEALTerNAtiNGCaSe {
-    //My Time Complexity: O(n)
-    //My Space complexity: O(n)
     public static String toAlternativeString(String string) {
         StringBuilder sb = new StringBuilder();
 
@@ -18,9 +18,9 @@ public class AltERnaTIngCAsEALTerNAtiNGCaSe {
             char currentChar = string.charAt(i);
 
             if (currentChar >= 'A' && currentChar <= 'Z') {
-                sb.append((char)(currentChar + 32));
+                sb.append((char) (currentChar + 32));
             } else if (currentChar >= 'a' && currentChar <= 'z') {
-                sb.append((char)(currentChar - 32));
+                sb.append((char) (currentChar - 32));
             } else {
                 sb.append(currentChar);
             }

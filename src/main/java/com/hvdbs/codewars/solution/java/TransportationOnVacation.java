@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Transportation on vacation",
-        url = "https://www.codewars.com/kata/568d0dd208ee69389d000016"
-)
+        url = "https://www.codewars.com/kata/568d0dd208ee69389d000016",
+        spaceComplexity = "O(1)",
+        timeComplexity = "O(1)")
 public class TransportationOnVacation {
-    //My Time Complexity: O(1)
-    //My Space complexity: O(1)
     public static int rentalCarCost(int d) {
         if (d >= 7) {
             return d * 40 - 50;

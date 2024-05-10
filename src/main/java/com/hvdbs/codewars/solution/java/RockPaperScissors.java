@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Rock Paper Scissors!",
-        url = "https://www.codewars.com/kata/5672a98bdbdd995fad00000f"
-)
+        url = "https://www.codewars.com/kata/5672a98bdbdd995fad00000f",
+        timeComplexity = "O(1)",
+        spaceComplexity = "O(1)")
 public class RockPaperScissors {
-    //My Time Complexity: O(1)
-    //My Space complexity: O(1)
     public static String rps(String p1, String p2) {
         if ("scissors".equals(p1) && "paper".equals(p2)) {
             return "Player 1 won!";

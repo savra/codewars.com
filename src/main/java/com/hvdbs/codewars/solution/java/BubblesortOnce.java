@@ -26,7 +26,6 @@ public class BubblesortOnce {
             break;
         }
 
-
         return r;
     }
 }

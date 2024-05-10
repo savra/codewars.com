@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Fuel Calculator: Total Cost",
-        url = "https://www.codewars.com/kata/57b58827d2a31c57720012e8"
-)
+        url = "https://www.codewars.com/kata/57b58827d2a31c57720012e8",
+        spaceComplexity = "O(1)",
+        timeComplexity = "O(1)")
 public class FuelCalculatorTotalCost {
-    //My Time Complexity: O(1)
-    //My Space complexity: O(1)
     public static double fuelPrice(int litres, double pricePerLitre) {
         if (litres >= 10) {
             return litres * (pricePerLitre - 0.25);

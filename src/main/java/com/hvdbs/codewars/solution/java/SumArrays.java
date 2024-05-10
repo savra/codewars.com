@@ -8,8 +8,9 @@ import java.util.Arrays;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Sum Arrays",
-        url = "https://www.codewars.com/kata/53dc54212259ed3d4f00071c"
-)
+        url = "https://www.codewars.com/kata/53dc54212259ed3d4f00071c",
+        timeComplexity = "O(N)",
+        spaceComplexity = "O(1)")
 public class SumArrays {
     //My Time Complexity: O(n)
     //My Space complexity: O(1)

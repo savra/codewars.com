@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "How do I compare numbers?",
-        url = "https://www.codewars.com/kata/55d8618adfda93c89600012e"
-)
+        url = "https://www.codewars.com/kata/55d8618adfda93c89600012e",
+        spaceComplexity = "O(1)",
+        timeComplexity = "O(N)")
 public class HowDoICompareNumbers {
-    //My Time Complexity: O(n)
-    //My Space complexity: O(1)
     public static String whatIs(Integer x) {
         for (Object[] p : specialNumbers) {
             if (p[0].equals(x))

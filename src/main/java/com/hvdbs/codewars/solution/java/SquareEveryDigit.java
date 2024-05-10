@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.SEVEN,
         name = "Square Every Digit",
-        url = "https://www.codewars.com/kata/546e2562b03326a88e000020"
-)
+        url = "https://www.codewars.com/kata/546e2562b03326a88e000020",
+        spaceComplexity = "O(LogN)",
+        timeComplexity = "O(LogN)")
 public class SquareEveryDigit {
-    //My Time Complexity: O(logN)
-    //My Space complexity: O(logN)
     public int squareDigits(int n) {
         if (n <= 0) {
             return 0;

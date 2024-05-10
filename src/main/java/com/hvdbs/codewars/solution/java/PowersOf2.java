@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Powers of 2",
-        url = "https://www.codewars.com/kata/57a083a57cb1f31db7000028"
-)
+        url = "https://www.codewars.com/kata/57a083a57cb1f31db7000028",
+        spaceComplexity = "O(N)",
+        timeComplexity = "O(N)")
 public class PowersOf2 {
-    //My Time Complexity: O(n)
-    //My Space complexity: O(n)
     public static long[] powersOfTwo(int n){
         long[] result = new long[n + 1];
 

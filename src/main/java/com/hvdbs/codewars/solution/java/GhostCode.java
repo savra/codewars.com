@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Ghost code?!",
-        url = "https://www.codewars.com/kata/570184a95594a091150000a0"
-)
+        url = "https://www.codewars.com/kata/570184a95594a091150000a0",
+        spaceComplexity = "O(1)",
+        timeComplexity = "O(1)")
 public class GhostCode {
-    //My Time Complexity: O(1)
-    //My Space complexity: O(1)
     public static String helloName(final String name){
         if(name == null || name.equals(""))
             return "Hello world!";

@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Sum without highest and lowest number",
-        url = "https://www.codewars.com/kata/576b93db1129fcf2200001e6"
-)
+        url = "https://www.codewars.com/kata/576b93db1129fcf2200001e6",
+        spaceComplexity = "O(1)",
+        timeComplexity = "O(N)")
 public class SumWithoutHighestAndLowestNumber {
-    //My Time Complexity: O(n)
-    //My Space complexity: O(1)
     public static int sum(int[] numbers) {
         if (numbers == null || numbers.length == 0 || numbers.length == 1) {
             return 0;

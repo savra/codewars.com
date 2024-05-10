@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Quarter of the year",
-        url = "https://www.codewars.com/kata/5ce9c1000bab0b001134f5af"
-)
+        url = "https://www.codewars.com/kata/5ce9c1000bab0b001134f5af",
+        timeComplexity = "O(1)",
+        spaceComplexity = "O(1)")
 public class QuarterOfTheYear {
-    //My Time Complexity: O(1)
-    //My Space complexity: O(1)
     public static int quarterOf(int month) {
         if (month >= 1 && month <= 3) {
             return 1;

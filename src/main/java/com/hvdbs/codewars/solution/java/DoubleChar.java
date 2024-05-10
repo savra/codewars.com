@@ -6,12 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Double Char",
-        url = "https://www.codewars.com/kata/56b1f01c247c01db92000076"
-)
+        url = "https://www.codewars.com/kata/56b1f01c247c01db92000076",
+        timeComplexity = "O(N)",
+        spaceComplexity = "O(N)")
 public class DoubleChar {
-    //My Time Complexity: O(n)
-    //My Space complexity: O(n)
-
     public static String doubleChar(String s) {
         StringBuilder sb = new StringBuilder();
 

@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Never visit a . . . !?",
-        url = "https://www.codewars.com/kata/56c5847f27be2c3db20009c3"
-)
+        url = "https://www.codewars.com/kata/56c5847f27be2c3db20009c3",
+        spaceComplexity = "O(1)",
+        timeComplexity = "O(N)")
 public class NeverVisitA {
-    //My Time Complexity: O(n)
-    //My Space complexity: O(1)
     public static String subtractSum (int n) {
         int tmp = n;
 

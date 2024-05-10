@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Leonardo Dicaprio and Oscars",
-        url = "https://www.codewars.com/kata/56d49587df52101de70011e4"
-)
+        url = "https://www.codewars.com/kata/56d49587df52101de70011e4",
+        timeComplexity = "O(1)",
+        spaceComplexity = "O(1)")
 public class LeonardoDicaprioAndOscars {
-    //My Time Complexity: O(1)
-    //My Space complexity: O(1)
     public static String leo(final int oscar) {
         if (oscar > 88) {
             return "Leo got one already!";

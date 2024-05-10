@@ -6,12 +6,11 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Reversed Words",
-        url = "https://www.codewars.com/kata/51c8991dee245d7ddf00000e"
-)
+        url = "https://www.codewars.com/kata/51c8991dee245d7ddf00000e",
+        spaceComplexity = "O(N)",
+        timeComplexity = "O(N)")
 public class ReversedWords {
-    //My Time Complexity: O(n)
-    //My Space complexity: O(n)
-    public static String reverseWords(String str){
+    public static String reverseWords(String str) {
         String[] tmp = str.split(" ");
         StringBuilder sb = new StringBuilder();
 

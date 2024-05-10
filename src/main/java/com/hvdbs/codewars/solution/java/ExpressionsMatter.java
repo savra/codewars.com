@@ -6,11 +6,10 @@ import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Expressions Matter",
-        url = "https://www.codewars.com/kata/5ae62fcf252e66d44d00008e"
-)
+        url = "https://www.codewars.com/kata/5ae62fcf252e66d44d00008e",
+        timeComplexity = "O(1)",
+        spaceComplexity = "O(1)")
 public class ExpressionsMatter {
-    //My Time Complexity: O(1)
-    //My Space complexity: O(1)
     public static int expressionsMatter(int a, int b, int c) {
         int maxValue;
 
