@@ -1,0 +1,6 @@
+stats-generator:
+  enable: true
+  github-repository-base-url: https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution
+  language:
+    java: true
+  solution-package-name: com.hvdbs.codewars.solution
