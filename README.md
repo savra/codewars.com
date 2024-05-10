@@ -1,75 +1,6 @@
 # Statistics of problem solving ⭐
 ## JAVA
 <details>
-<summary>FIVE</summary>
-
-|Name|Problem|Solution|Time Complexity|Space complexity
-|---|---|---|---|---|
-|Can you get the loop ?|https://www.codewars.com/kata/52a89c2ea8ddc5547a000863|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/CanYouGetTheLoop.JAVA'>Can you get the loop ?</a>|$O(N)$|$O(1)$
-</details>
-<details>
-<summary>SEVEN</summary>
-
-|Name|Problem|Solution|Time Complexity|Space complexity
-|---|---|---|---|---|
-|Bubblesort Once|https://www.codewars.com/kata/56b97b776ffcea598a0006f2|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/BubblesortOnce.JAVA'>Bubblesort Once</a>|$not specified$|$not specified$
-|Closing in Sum|https://www.codewars.com/kata/65126d52a5de2b11c94096d2|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ClosingInSum.JAVA'>Closing in Sum</a>|$not specified$|$not specified$
-|Collatz Conjecture Length|https://www.codewars.com/kata/54fb963d3fe32351f2000102|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/CollatzConjectureLength.JAVA'>Collatz Conjecture Length</a>|$not specified$|$not specified$
-|Coloured Triangles|https://www.codewars.com/kata/5a25ac6ac5e284cfbe000111|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ColouredTriangles.JAVA'>Coloured Triangles</a>|$not specified$|$not specified$
-|Common Substrings|https://www.codewars.com/kata/5669a5113c8ebf16ed00004c|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/CommonSubstrings.JAVA'>Common Substrings</a>|$not specified$|$not specified$
-|Compare Strings by Sum of Chars|https://www.codewars.com/kata/576bb3c4b1abc497ec000065|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/CompareStringsBySumOfChars.JAVA'>Compare Strings by Sum of Chars</a>|$not specified$|$not specified$
-|Consecutive letters|https://www.codewars.com/kata/5ce6728c939bf80029988b57|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ConsecutiveLetters.JAVA'>Consecutive letters</a>|$not specified$|$not specified$
-|Convert a linked list to a string|https://www.codewars.com/kata/582c297e56373f0426000098|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ConvertALinkedListToAString.JAVA'>Convert a linked list to a string</a>|$O(N)$|$O(N)$
-|Debug Sum of Digits of a Number|https://www.codewars.com/kata/563d59dd8e47a5ed220000ba|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/DebugSumOfDigitsOfANumber.JAVA'>Debug Sum of Digits of a Number</a>|$not specified$|$not specified$
-|Descending Order|https://www.codewars.com/kata/5467e4d82edf8bbf40000155|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/DescendingOrder.JAVA'>Descending Order</a>|$not specified$|$not specified$
-|Disemvowel Trolls|https://www.codewars.com/kata/52fba66badcd10859f00097e|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/DisemvowelTrolls.JAVA'>Disemvowel Trolls</a>|$not specified$|$not specified$
-|Exes and Ohs|https://www.codewars.com/kata/55908aad6620c066bc00002a|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ExesAndOhs.JAVA'>Exes and Ohs</a>|$not specified$|$not specified$
-|Factorial|https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/Factorial.JAVA'>Factorial</a>|$not specified$|$not specified$
-|Fibonacci|https://www.codewars.com/kata/57a1d5ef7cb1f3db590002af|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/Fibonacci.JAVA'>Fibonacci</a>|$not specified$|$not specified$
-|Find Count of Most Frequent Item in an Array|https://www.codewars.com/kata/56582133c932d8239900002e|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FindCountOfMostFrequentItemInAnArray.JAVA'>Find Count of Most Frequent Item in an Array</a>|$not specified$|$not specified$
-|Find Max Tree Node|https://www.codewars.com/kata/5a04450c8ba914083700000a|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FindMaxTreeNode.JAVA'>Find Max Tree Node</a>|$not specified$|$not specified$
-|FIXME: 1, 2, 3, 4|https://www.codewars.com/kata/5b13c699af73864aa7000031|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FIXME1234.JAVA'>FIXME: 1, 2, 3, 4</a>|$not specified$|$not specified$
-|FIXME: Get Full Name|https://www.codewars.com/kata/597c684822bc9388f600010f|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FIXMEGetFullName.JAVA'>FIXME: Get Full Name</a>|$not specified$|$not specified$
-|FIXME: Hours to Seconds|https://www.codewars.com/kata/596b041e224071ece200002e|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FIXMEHoursToSeconds.JAVA'>FIXME: Hours to Seconds</a>|$not specified$|$not specified$
-|FIXME: Run, Runner!|https://www.codewars.com/kata/596b2b9d9e2fbd7811000046|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FIXMERunRunner.JAVA'>FIXME: Run, Runner!</a>|$not specified$|$not specified$
-|From A to Z|https://www.codewars.com/kata/6512b3775bf8500baea77663|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FromAToZ.JAVA'>From A to Z</a>|$not specified$|$not specified$
-|Get the Middle Character|https://www.codewars.com/kata/56747fd5cb988479af000028|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/GetTheMiddleCharacter.JAVA'>Get the Middle Character</a>|$not specified$|$not specified$
-|Highest and Lowest|https://www.codewars.com/kata/554b4ac871d6813a03000035|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/HighestAndLowest.JAVA'>Highest and Lowest</a>|$not specified$|$not specified$
-|Isograms|https://www.codewars.com/kata/54ba84be607a92aa900000f1|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/Isograms.JAVA'>Isograms</a>|$not specified$|$not specified$
-|Leap Years|https://www.codewars.com/kata/526c7363236867513f0005ca|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/LeapYears.JAVA'>Leap Years</a>|$not specified$|$not specified$
-|Length and two values|https://www.codewars.com/kata/62a611067274990047f431a8|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/LengthAndTwoValues.JAVA'>Length and two values</a>|$not specified$|$not specified$
-|Linked Lists - Append|https://www.codewars.com/kata/55d17ddd6d7868493e000074|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/LinkedListsAppend.JAVA'>Linked Lists - Append</a>|$O(N)$|$O(1)$
-|Linked Lists - Get Nth Node|https://www.codewars.com/kata/55befc42bfe4d13ab1000007|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/LinkedListsGetNthNode.JAVA'>Linked Lists - Get Nth Node</a>|$not specified$|$not specified$
-|Linked Lists - Push & BuildOneTwoThree|https://www.codewars.com/kata/55be95786abade3c71000079|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/LinkedListsPushBuildOneTwoThree.JAVA'>Linked Lists - Push & BuildOneTwoThree</a>|$not specified$|$not specified$
-|List Filtering|https://www.codewars.com/kata/53dbd5315a3c69eed20002dd|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ListFiltering.JAVA'>List Filtering</a>|$not specified$|$not specified$
-|Nickname Generator|https://www.codewars.com/kata/593b1909e68ff627c9000186|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/NicknameGenerator.JAVA'>Nickname Generator</a>|$not specified$|$not specified$
-|Number of Decimal Digits|https://www.codewars.com/kata/58fa273ca6d84c158e000052|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/NumberOfDecimalDigits.JAVA'>Number of Decimal Digits</a>|$not specified$|$not specified$
-|Number-Star ladder|https://www.codewars.com/kata/5631213916d70a0979000066|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/NumberStarLadder.JAVA'>Number-Star ladder</a>|$not specified$|$not specified$
-|Ones and Zeros|https://www.codewars.com/kata/578553c3a1b8d5c40300037c|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/OnesAndZeros.JAVA'>Ones and Zeros</a>|$not specified$|$not specified$
-|Page replacement algorithms: FIFO|https://www.codewars.com/kata/62d34faad32b8c002a17d6d9|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/PageReplacementAlgorithmsFIFO.JAVA'>Page replacement algorithms: FIFO</a>|$not specified$|$not specified$
-|Product Of Maximums Of Array (Array Series #2)|https://www.codewars.com/kata/5a63948acadebff56f000018|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ProductOfMaximumsOfArray.JAVA'>Product Of Maximums Of Array (Array Series #2)</a>|$not specified$|$not specified$
-|Reduce My Fraction|https://www.codewars.com/kata/576400f2f716ca816d001614|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ReduceMyFraction.JAVA'>Reduce My Fraction</a>|$not specified$|$not specified$
-|Shortest Word|https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ShortestWord.JAVA'>Shortest Word</a>|$not specified$|$not specified$
-|Simple beads count|https://www.codewars.com/kata/58712dfa5c538b6fc7000569|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/SimpleBeadsCount.JAVA'>Simple beads count</a>|$not specified$|$not specified$
-|Simple Fun #176: Reverse Letter|https://www.codewars.com/kata/58b8c94b7df3f116eb00005b|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/SimpleFun176ReverseLetter.JAVA'>Simple Fun #176: Reverse Letter</a>|$not specified$|$not specified$
-|Simple remove duplicates|https://www.codewars.com/kata/5ba38ba180824a86850000f7|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/SimpleRemoveDuplicates.JAVA'>Simple remove duplicates</a>|$not specified$|$not specified$
-|Square Every Digit|https://www.codewars.com/kata/546e2562b03326a88e000020|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/SquareEveryDigit.JAVA'>Square Every Digit</a>|$O(LogN)$|$O(LogN)$
-|Sum of array singles|https://www.codewars.com/kata/59f11118a5e129e591000134|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/SumOfArraySingles.JAVA'>Sum of array singles</a>|$not specified$|$not specified$
-|Supernatural|https://www.codewars.com/kata/55c9a8cda33889d69e00008b|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/Supernatural.JAVA'>Supernatural</a>|$not specified$|$not specified$
-|Uglify Word|https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/UglifyWord.JAVA'>Uglify Word</a>|$not specified$|$not specified$
-|Vowel Count|https://www.codewars.com/kata/54ff3102c1bad923760001f3|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/VowelCount.JAVA'>Vowel Count</a>|$not specified$|$not specified$
-|You're a square!|https://www.codewars.com/kata/54c27a33fb7da0db0100040e|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/YoureASquare.JAVA'>You're a square!</a>|$not specified$|$not specified$
-</details>
-<details>
-<summary>SIX</summary>
-
-|Name|Problem|Solution|Time Complexity|Space complexity
-|---|---|---|---|---|
-|Dude, my computer cannot count!|https://www.codewars.com/kata/58fa9898dfec0ef150000014|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/DudeMyComputerCannotCount.JAVA'>Dude, my computer cannot count!</a>|$not specified$|$not specified$
-|Multiples of 3 or 5|https://www.codewars.com/kata/514b92a657cdc65150000006|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/MultiplesOf3Or5.JAVA'>Multiples of 3 or 5</a>|$O(LogN)$|$O(1)$
-|Round and Round|https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/RoundAndRound.JAVA'>Round and Round</a>|$not specified$|$not specified$
-</details>
-<details>
 <summary>EIGHT</summary>
 
 |Name|Problem|Solution|Time Complexity|Space complexity
@@ -274,4 +205,73 @@
 |Wilson primes|https://www.codewars.com/kata/55dc4520094bbaf50e0000cb|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/WilsonPrimes.JAVA'>Wilson primes</a>|$O(N)$|$O(1)$
 |You Can't Code Under Pressure #1|https://www.codewars.com/kata/53ee5429ba190077850011d4|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/YouCantCodeUnderPressure1.JAVA'>You Can't Code Under Pressure #1</a>|$not specified$|$not specified$
 |You only need one - Beginner|https://www.codewars.com/kata/57cc975ed542d3148f00015b|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/YouOnlyNeedOneBeginner.JAVA'>You only need one - Beginner</a>|$not specified$|$not specified$
+</details>
+<details>
+<summary>SEVEN</summary>
+
+|Name|Problem|Solution|Time Complexity|Space complexity
+|---|---|---|---|---|
+|Bubblesort Once|https://www.codewars.com/kata/56b97b776ffcea598a0006f2|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/BubblesortOnce.JAVA'>Bubblesort Once</a>|$not specified$|$not specified$
+|Closing in Sum|https://www.codewars.com/kata/65126d52a5de2b11c94096d2|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ClosingInSum.JAVA'>Closing in Sum</a>|$not specified$|$not specified$
+|Collatz Conjecture Length|https://www.codewars.com/kata/54fb963d3fe32351f2000102|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/CollatzConjectureLength.JAVA'>Collatz Conjecture Length</a>|$not specified$|$not specified$
+|Coloured Triangles|https://www.codewars.com/kata/5a25ac6ac5e284cfbe000111|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ColouredTriangles.JAVA'>Coloured Triangles</a>|$not specified$|$not specified$
+|Common Substrings|https://www.codewars.com/kata/5669a5113c8ebf16ed00004c|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/CommonSubstrings.JAVA'>Common Substrings</a>|$not specified$|$not specified$
+|Compare Strings by Sum of Chars|https://www.codewars.com/kata/576bb3c4b1abc497ec000065|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/CompareStringsBySumOfChars.JAVA'>Compare Strings by Sum of Chars</a>|$not specified$|$not specified$
+|Consecutive letters|https://www.codewars.com/kata/5ce6728c939bf80029988b57|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ConsecutiveLetters.JAVA'>Consecutive letters</a>|$not specified$|$not specified$
+|Convert a linked list to a string|https://www.codewars.com/kata/582c297e56373f0426000098|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ConvertALinkedListToAString.JAVA'>Convert a linked list to a string</a>|$O(N)$|$O(N)$
+|Debug Sum of Digits of a Number|https://www.codewars.com/kata/563d59dd8e47a5ed220000ba|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/DebugSumOfDigitsOfANumber.JAVA'>Debug Sum of Digits of a Number</a>|$not specified$|$not specified$
+|Descending Order|https://www.codewars.com/kata/5467e4d82edf8bbf40000155|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/DescendingOrder.JAVA'>Descending Order</a>|$not specified$|$not specified$
+|Disemvowel Trolls|https://www.codewars.com/kata/52fba66badcd10859f00097e|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/DisemvowelTrolls.JAVA'>Disemvowel Trolls</a>|$not specified$|$not specified$
+|Exes and Ohs|https://www.codewars.com/kata/55908aad6620c066bc00002a|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ExesAndOhs.JAVA'>Exes and Ohs</a>|$not specified$|$not specified$
+|Factorial|https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/Factorial.JAVA'>Factorial</a>|$not specified$|$not specified$
+|Fibonacci|https://www.codewars.com/kata/57a1d5ef7cb1f3db590002af|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/Fibonacci.JAVA'>Fibonacci</a>|$not specified$|$not specified$
+|Find Count of Most Frequent Item in an Array|https://www.codewars.com/kata/56582133c932d8239900002e|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FindCountOfMostFrequentItemInAnArray.JAVA'>Find Count of Most Frequent Item in an Array</a>|$not specified$|$not specified$
+|Find Max Tree Node|https://www.codewars.com/kata/5a04450c8ba914083700000a|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FindMaxTreeNode.JAVA'>Find Max Tree Node</a>|$not specified$|$not specified$
+|FIXME: 1, 2, 3, 4|https://www.codewars.com/kata/5b13c699af73864aa7000031|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FIXME1234.JAVA'>FIXME: 1, 2, 3, 4</a>|$not specified$|$not specified$
+|FIXME: Get Full Name|https://www.codewars.com/kata/597c684822bc9388f600010f|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FIXMEGetFullName.JAVA'>FIXME: Get Full Name</a>|$not specified$|$not specified$
+|FIXME: Hours to Seconds|https://www.codewars.com/kata/596b041e224071ece200002e|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FIXMEHoursToSeconds.JAVA'>FIXME: Hours to Seconds</a>|$not specified$|$not specified$
+|FIXME: Run, Runner!|https://www.codewars.com/kata/596b2b9d9e2fbd7811000046|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FIXMERunRunner.JAVA'>FIXME: Run, Runner!</a>|$not specified$|$not specified$
+|From A to Z|https://www.codewars.com/kata/6512b3775bf8500baea77663|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/FromAToZ.JAVA'>From A to Z</a>|$not specified$|$not specified$
+|Get the Middle Character|https://www.codewars.com/kata/56747fd5cb988479af000028|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/GetTheMiddleCharacter.JAVA'>Get the Middle Character</a>|$not specified$|$not specified$
+|Highest and Lowest|https://www.codewars.com/kata/554b4ac871d6813a03000035|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/HighestAndLowest.JAVA'>Highest and Lowest</a>|$not specified$|$not specified$
+|Isograms|https://www.codewars.com/kata/54ba84be607a92aa900000f1|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/Isograms.JAVA'>Isograms</a>|$not specified$|$not specified$
+|Leap Years|https://www.codewars.com/kata/526c7363236867513f0005ca|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/LeapYears.JAVA'>Leap Years</a>|$not specified$|$not specified$
+|Length and two values|https://www.codewars.com/kata/62a611067274990047f431a8|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/LengthAndTwoValues.JAVA'>Length and two values</a>|$not specified$|$not specified$
+|Linked Lists - Append|https://www.codewars.com/kata/55d17ddd6d7868493e000074|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/LinkedListsAppend.JAVA'>Linked Lists - Append</a>|$O(N)$|$O(1)$
+|Linked Lists - Get Nth Node|https://www.codewars.com/kata/55befc42bfe4d13ab1000007|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/LinkedListsGetNthNode.JAVA'>Linked Lists - Get Nth Node</a>|$not specified$|$not specified$
+|Linked Lists - Push & BuildOneTwoThree|https://www.codewars.com/kata/55be95786abade3c71000079|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/LinkedListsPushBuildOneTwoThree.JAVA'>Linked Lists - Push & BuildOneTwoThree</a>|$not specified$|$not specified$
+|List Filtering|https://www.codewars.com/kata/53dbd5315a3c69eed20002dd|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ListFiltering.JAVA'>List Filtering</a>|$not specified$|$not specified$
+|Nickname Generator|https://www.codewars.com/kata/593b1909e68ff627c9000186|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/NicknameGenerator.JAVA'>Nickname Generator</a>|$not specified$|$not specified$
+|Number of Decimal Digits|https://www.codewars.com/kata/58fa273ca6d84c158e000052|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/NumberOfDecimalDigits.JAVA'>Number of Decimal Digits</a>|$not specified$|$not specified$
+|Number-Star ladder|https://www.codewars.com/kata/5631213916d70a0979000066|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/NumberStarLadder.JAVA'>Number-Star ladder</a>|$not specified$|$not specified$
+|Ones and Zeros|https://www.codewars.com/kata/578553c3a1b8d5c40300037c|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/OnesAndZeros.JAVA'>Ones and Zeros</a>|$not specified$|$not specified$
+|Page replacement algorithms: FIFO|https://www.codewars.com/kata/62d34faad32b8c002a17d6d9|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/PageReplacementAlgorithmsFIFO.JAVA'>Page replacement algorithms: FIFO</a>|$not specified$|$not specified$
+|Product Of Maximums Of Array (Array Series #2)|https://www.codewars.com/kata/5a63948acadebff56f000018|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ProductOfMaximumsOfArray.JAVA'>Product Of Maximums Of Array (Array Series #2)</a>|$not specified$|$not specified$
+|Reduce My Fraction|https://www.codewars.com/kata/576400f2f716ca816d001614|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ReduceMyFraction.JAVA'>Reduce My Fraction</a>|$not specified$|$not specified$
+|Shortest Word|https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/ShortestWord.JAVA'>Shortest Word</a>|$not specified$|$not specified$
+|Simple beads count|https://www.codewars.com/kata/58712dfa5c538b6fc7000569|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/SimpleBeadsCount.JAVA'>Simple beads count</a>|$not specified$|$not specified$
+|Simple Fun #176: Reverse Letter|https://www.codewars.com/kata/58b8c94b7df3f116eb00005b|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/SimpleFun176ReverseLetter.JAVA'>Simple Fun #176: Reverse Letter</a>|$not specified$|$not specified$
+|Simple remove duplicates|https://www.codewars.com/kata/5ba38ba180824a86850000f7|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/SimpleRemoveDuplicates.JAVA'>Simple remove duplicates</a>|$not specified$|$not specified$
+|Square Every Digit|https://www.codewars.com/kata/546e2562b03326a88e000020|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/SquareEveryDigit.JAVA'>Square Every Digit</a>|$O(LogN)$|$O(LogN)$
+|Sum of array singles|https://www.codewars.com/kata/59f11118a5e129e591000134|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/SumOfArraySingles.JAVA'>Sum of array singles</a>|$not specified$|$not specified$
+|Supernatural|https://www.codewars.com/kata/55c9a8cda33889d69e00008b|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/Supernatural.JAVA'>Supernatural</a>|$not specified$|$not specified$
+|Uglify Word|https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/UglifyWord.JAVA'>Uglify Word</a>|$not specified$|$not specified$
+|Vowel Count|https://www.codewars.com/kata/54ff3102c1bad923760001f3|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/VowelCount.JAVA'>Vowel Count</a>|$not specified$|$not specified$
+|You're a square!|https://www.codewars.com/kata/54c27a33fb7da0db0100040e|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/YoureASquare.JAVA'>You're a square!</a>|$not specified$|$not specified$
+</details>
+<details>
+<summary>FIVE</summary>
+
+|Name|Problem|Solution|Time Complexity|Space complexity
+|---|---|---|---|---|
+|Can you get the loop ?|https://www.codewars.com/kata/52a89c2ea8ddc5547a000863|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/CanYouGetTheLoop.JAVA'>Can you get the loop ?</a>|$O(N)$|$O(1)$
+</details>
+<details>
+<summary>SIX</summary>
+
+|Name|Problem|Solution|Time Complexity|Space complexity
+|---|---|---|---|---|
+|Dude, my computer cannot count!|https://www.codewars.com/kata/58fa9898dfec0ef150000014|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/DudeMyComputerCannotCount.JAVA'>Dude, my computer cannot count!</a>|$not specified$|$not specified$
+|Multiples of 3 or 5|https://www.codewars.com/kata/514b92a657cdc65150000006|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/MultiplesOf3Or5.JAVA'>Multiples of 3 or 5</a>|$O(LogN)$|$O(1)$
+|Round and Round|https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/JAVA/RoundAndRound.JAVA'>Round and Round</a>|$not specified$|$not specified$
 </details>
