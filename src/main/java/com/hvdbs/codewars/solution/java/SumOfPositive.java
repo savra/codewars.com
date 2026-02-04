@@ -1,12 +1,15 @@
 package com.hvdbs.codewars.solution.java;
 
 import com.hvdbs.savra.statsgenerator.CodeInfo;
+import com.hvdbs.savra.statsgenerator.enums.Complexity;
 import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 
 @CodeInfo(
         difficulty = Difficulty.EIGHT,
         name = "Sum of positive",
-        url = "https://www.codewars.com/kata/5715eaedb436cf5606000381"
+        url = "https://www.codewars.com/kata/5715eaedb436cf5606000381",
+        timeComplexity = Complexity.ConstantComplexity.LINEAR,
+        spaceComplexity = Complexity.ConstantComplexity.CONSTANT
 )
 public class SumOfPositive {
     public static int sum(int[] arr) {
