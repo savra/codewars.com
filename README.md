@@ -1,11 +1,13 @@
 # Statistics of problem solving ⭐
 ## JAVA
 <details>
-<summary>FIVE</summary>
+<summary>SIX</summary>
 
 |Name|Problem|Solution|Time Complexity|Space complexity
 |---|---|---|---|---|
-|Can you get the loop ?|https://www.codewars.com/kata/52a89c2ea8ddc5547a000863|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/CanYouGetTheLoop.java'>Can you get the loop ?</a>|$O(N)$|$O(1)$
+|Dude, my computer cannot count!|https://www.codewars.com/kata/58fa9898dfec0ef150000014|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|$not specified$|$not specified$
+|Multiples of 3 or 5|https://www.codewars.com/kata/514b92a657cdc65150000006|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/MultiplesOf3Or5.java'>Multiples of 3 or 5</a>|$O(LogN)$|$O(1)$
+|Round and Round|https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/RoundAndRound.java'>Round and Round</a>|$not specified$|$not specified$
 </details>
 <details>
 <summary>SEVEN</summary>
@@ -36,6 +38,7 @@
 |Get the Middle Character|https://www.codewars.com/kata/56747fd5cb988479af000028|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/GetTheMiddleCharacter.java'>Get the Middle Character</a>|$not specified$|$not specified$
 |Highest and Lowest|https://www.codewars.com/kata/554b4ac871d6813a03000035|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/HighestAndLowest.java'>Highest and Lowest</a>|$not specified$|$not specified$
 |Isograms|https://www.codewars.com/kata/54ba84be607a92aa900000f1|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/Isograms.java'>Isograms</a>|$not specified$|$not specified$
+|Is this a triangle?|https://www.codewars.com/kata/56606694ec01347ce800001b|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/IsThisATriangle.java'>Is this a triangle?</a>|$O(1)$|$O(1)$
 |Leap Years|https://www.codewars.com/kata/526c7363236867513f0005ca|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/LeapYears.java'>Leap Years</a>|$not specified$|$not specified$
 |Length and two values|https://www.codewars.com/kata/62a611067274990047f431a8|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/LengthAndTwoValues.java'>Length and two values</a>|$not specified$|$not specified$
 |Linked Lists - Append|https://www.codewars.com/kata/55d17ddd6d7868493e000074|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/LinkedListsAppend.java'>Linked Lists - Append</a>|$O(N)$|$O(1)$
@@ -61,13 +64,11 @@
 |You're a square!|https://www.codewars.com/kata/54c27a33fb7da0db0100040e|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/YoureASquare.java'>You're a square!</a>|$not specified$|$not specified$
 </details>
 <details>
-<summary>SIX</summary>
+<summary>FIVE</summary>
 
 |Name|Problem|Solution|Time Complexity|Space complexity
 |---|---|---|---|---|
-|Dude, my computer cannot count!|https://www.codewars.com/kata/58fa9898dfec0ef150000014|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|$not specified$|$not specified$
-|Multiples of 3 or 5|https://www.codewars.com/kata/514b92a657cdc65150000006|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/MultiplesOf3Or5.java'>Multiples of 3 or 5</a>|$O(LogN)$|$O(1)$
-|Round and Round|https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/RoundAndRound.java'>Round and Round</a>|$not specified$|$not specified$
+|Can you get the loop ?|https://www.codewars.com/kata/52a89c2ea8ddc5547a000863|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/CanYouGetTheLoop.java'>Can you get the loop ?</a>|$O(N)$|$O(1)$
 </details>
 <details>
 <summary>EIGHT</summary>
@@ -240,7 +241,7 @@
 |Sum Mixed Array|https://www.codewars.com/kata/57eaeb9578748ff92a000009|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SumMixedArray.java'>Sum Mixed Array</a>|$not specified$|$not specified$
 |Sum of differences in array|https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SumOfDifferencesInArray.java'>Sum of differences in array</a>|$not specified$|$not specified$
 |Sum of Multiples|https://www.codewars.com/kata/57241e0f440cd279b5000829|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SumOfMultiples.java'>Sum of Multiples</a>|$not specified$|$not specified$
-|Sum of positive|https://www.codewars.com/kata/5715eaedb436cf5606000381|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SumOfPositive.java'>Sum of positive</a>|$not specified$|$not specified$
+|Sum of positive|https://www.codewars.com/kata/5715eaedb436cf5606000381|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SumOfPositive.java'>Sum of positive</a>|$O(N)$|$O(1)$
 |Sum without highest and lowest number|https://www.codewars.com/kata/576b93db1129fcf2200001e6|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SumWithoutHighestAndLowestNumber.java'>Sum without highest and lowest number</a>|$O(N)$|$O(1)$
 |Surface Area and Volume of a Box|https://www.codewars.com/kata/565f5825379664a26b00007c|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SurfaceAreaAndVolumeOfABox.java'>Surface Area and Volume of a Box</a>|$O(1)$|$O(1)$
 |Swap Values|https://www.codewars.com/kata/5388f0e00b24c5635e000fc6|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SwapValues.java'>Swap Values</a>|$not specified$|$not specified$
