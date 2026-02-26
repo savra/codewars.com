@@ -1,11 +1,15 @@
 # Statistics of problem solving ⭐
 ## JAVA
 <details>
-<summary>FIVE</summary>
+<summary>SIX</summary>
 
 |Name|Problem|Solution|Time Complexity|Space complexity
 |---|---|---|---|---|
-|Can you get the loop ?|https://www.codewars.com/kata/52a89c2ea8ddc5547a000863|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/CanYouGetTheLoop.java'>Can you get the loop ?</a>|$O(N)$|$O(1)$
+|Dude, my computer cannot count!|https://www.codewars.com/kata/58fa9898dfec0ef150000014|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|$not specified$|$not specified$
+|Find the odd int| https://www.codewars.com/kata/54da5a58ea159efa38000836 |<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/FindTheOddInt.java'>Find the odd int</a>|$O(N)$|$O(1)$
+|Multiples of 3 or 5|https://www.codewars.com/kata/514b92a657cdc65150000006|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/MultiplesOf3Or5.java'>Multiples of 3 or 5</a>|$O(LogN)$|$O(1)$
+|Round and Round|https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/RoundAndRound.java'>Round and Round</a>|$not specified$|$not specified$
+|Sum of Digits / Digital Root|https://www.codewars.com/kata/541c8630095125aba6000c00|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SumOfDigitsDigitalRoot.java'>Sum of Digits / Digital Root</a>|$LogN$|$O(1)$
 </details>
 <details>
 <summary>SEVEN</summary>
@@ -268,12 +272,9 @@
 |You only need one - Beginner|https://www.codewars.com/kata/57cc975ed542d3148f00015b|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|$not specified$|$not specified$
 </details>
 <details>
-<summary>SIX</summary>
+<summary>FIVE</summary>
 
 |Name|Problem|Solution|Time Complexity|Space complexity
 |---|---|---|---|---|
-|Dude, my computer cannot count!|https://www.codewars.com/kata/58fa9898dfec0ef150000014|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|$not specified$|$not specified$
-|Multiples of 3 or 5|https://www.codewars.com/kata/514b92a657cdc65150000006|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/MultiplesOf3Or5.java'>Multiples of 3 or 5</a>|$O(LogN)$|$O(1)$
-|Round and Round|https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/RoundAndRound.java'>Round and Round</a>|$not specified$|$not specified$
-|Sum of Digits / Digital Root|https://www.codewars.com/kata/541c8630095125aba6000c00|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SumOfDigitsDigitalRoot.java'>Sum of Digits / Digital Root</a>|$LogN$|$O(1)$
+|Can you get the loop ?|https://www.codewars.com/kata/52a89c2ea8ddc5547a000863|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/CanYouGetTheLoop.java'>Can you get the loop ?</a>|$O(N)$|$O(1)$
 </details>
