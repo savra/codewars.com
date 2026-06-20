@@ -1,14 +1,15 @@
 package com.hvdbs.codewars.solution.java;
 
 import com.hvdbs.savra.statsgenerator.CodeInfo;
+import com.hvdbs.savra.statsgenerator.enums.Complexity;
 import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 
 @CodeInfo(
         difficulty = Difficulty.SEVEN,
         name = "Convert a linked list to a string",
         url = "https://www.codewars.com/kata/582c297e56373f0426000098",
-        timeComplexity = "O(N)",
-        spaceComplexity = "O(N)")
+        timeComplexity = Complexity.ConstantComplexity.LINEAR,
+        spaceComplexity = Complexity.ConstantComplexity.LINEAR)
 public class ConvertALinkedListToAString {
     class Node {
         private int data;
