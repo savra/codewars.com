@@ -1,13 +1,6 @@
 # Statistics of problem solving ⭐
 ## JAVA
 <details>
-<summary>FIVE</summary>
-
-|Name|Problem|Solution|Time Complexity|Space complexity
-|---|---|---|---|---|
-|Can you get the loop ?|https://www.codewars.com/kata/52a89c2ea8ddc5547a000863|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/CanYouGetTheLoop.java'>Can you get the loop ?</a>|$O(N)$|$O(1)$
-</details>
-<details>
 <summary>SEVEN</summary>
 
 |Name|Problem|Solution|Time Complexity|Space complexity
@@ -50,6 +43,7 @@
 |Page replacement algorithms: FIFO|https://www.codewars.com/kata/62d34faad32b8c002a17d6d9|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/PageReplacementAlgorithmsFIFO.java'>Page replacement algorithms: FIFO</a>|$not specified$|$not specified$
 |Product Of Maximums Of Array (Array Series #2)|https://www.codewars.com/kata/5a63948acadebff56f000018|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/ProductOfMaximumsOfArray.java'>Product Of Maximums Of Array (Array Series #2)</a>|$not specified$|$not specified$
 |Reduce My Fraction|https://www.codewars.com/kata/576400f2f716ca816d001614|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/ReduceMyFraction.java'>Reduce My Fraction</a>|$not specified$|$not specified$
+|Running out of space|https://www.codewars.com/kata/56576f82ab83ee8268000059|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/RunningOutOfSpace.java'>Running out of space</a>|$O(N)$|$O(1)$
 |Shortest Word|https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/ShortestWord.java'>Shortest Word</a>|$O(N)$|$O(1)$
 |Simple beads count|https://www.codewars.com/kata/58712dfa5c538b6fc7000569|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SimpleBeadsCount.java'>Simple beads count</a>|$not specified$|$not specified$
 |Simple Fun #176: Reverse Letter|https://www.codewars.com/kata/58b8c94b7df3f116eb00005b|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SimpleFun176ReverseLetter.java'>Simple Fun #176: Reverse Letter</a>|$not specified$|$not specified$
@@ -60,6 +54,26 @@
 |Uglify Word|https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/UglifyWord.java'>Uglify Word</a>|$not specified$|$not specified$
 |Vowel Count|https://www.codewars.com/kata/54ff3102c1bad923760001f3|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/VowelCount.java'>Vowel Count</a>|$not specified$|$not specified$
 |You're a square!|https://www.codewars.com/kata/54c27a33fb7da0db0100040e|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/YoureASquare.java'>You're a square!</a>|$not specified$|$not specified$
+</details>
+<details>
+<summary>SIX</summary>
+
+|Name|Problem|Solution|Time Complexity|Space complexity
+|---|---|---|---|---|
+|Counting Duplicates|https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/CountingDuplicates.java'>Counting Duplicates</a>|$O(N)$|$O(N)$
+|Dude, my computer cannot count!|https://www.codewars.com/kata/58fa9898dfec0ef150000014|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|$not specified$|$not specified$
+|Duplicate Encoder|https://www.codewars.com/kata/54b42f9314d9229fd6000d9c|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/DuplicateEncoder.java'>Duplicate Encoder</a>|$O(N)$|$O(N)$
+|Find the odd int| https://www.codewars.com/kata/54da5a58ea159efa38000836 |<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/FindTheOddInt.java'>Find the odd int</a>|$O(N)$|$O(1)$
+|Multiples of 3 or 5|https://www.codewars.com/kata/514b92a657cdc65150000006|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/MultiplesOf3Or5.java'>Multiples of 3 or 5</a>|$O(LogN)$|$O(1)$
+|Round and Round|https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/RoundAndRound.java'>Round and Round</a>|$not specified$|$not specified$
+|Sum of Digits / Digital Root|https://www.codewars.com/kata/541c8630095125aba6000c00|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SumOfDigitsDigitalRoot.java'>Sum of Digits / Digital Root</a>|$LogN$|$O(1)$
+</details>
+<details>
+<summary>FIVE</summary>
+
+|Name|Problem|Solution|Time Complexity|Space complexity
+|---|---|---|---|---|
+|Can you get the loop ?|https://www.codewars.com/kata/52a89c2ea8ddc5547a000863|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/CanYouGetTheLoop.java'>Can you get the loop ?</a>|$O(N)$|$O(1)$
 </details>
 <details>
 <summary>EIGHT</summary>
@@ -266,17 +280,4 @@
 |Wilson primes|https://www.codewars.com/kata/55dc4520094bbaf50e0000cb|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/WilsonPrimes.java'>Wilson primes</a>|$O(N)$|$O(1)$
 |You Can't Code Under Pressure #1|https://www.codewars.com/kata/53ee5429ba190077850011d4|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/YouCantCodeUnderPressure1.java'>You Can't Code Under Pressure #1</a>|$not specified$|$not specified$
 |You only need one - Beginner|https://www.codewars.com/kata/57cc975ed542d3148f00015b|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/YouOnlyNeedOneBeginner.java'>You only need one - Beginner</a>|$not specified$|$not specified$
-</details>
-<details>
-<summary>SIX</summary>
-
-|Name|Problem|Solution|Time Complexity|Space complexity
-|---|---|---|---|---|
-|Counting Duplicates|https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/CountingDuplicates.java'>Counting Duplicates</a>|$O(N)$|$O(N)$
-|Dude, my computer cannot count!|https://www.codewars.com/kata/58fa9898dfec0ef150000014|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/DudeMyComputerCannotCount.java'>Dude, my computer cannot count!</a>|$not specified$|$not specified$
-|Duplicate Encoder|https://www.codewars.com/kata/54b42f9314d9229fd6000d9c|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/DuplicateEncoder.java'>Duplicate Encoder</a>|$O(N)$|$O(N)$
-|Find the odd int| https://www.codewars.com/kata/54da5a58ea159efa38000836 |<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/FindTheOddInt.java'>Find the odd int</a>|$O(N)$|$O(1)$
-|Multiples of 3 or 5|https://www.codewars.com/kata/514b92a657cdc65150000006|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/MultiplesOf3Or5.java'>Multiples of 3 or 5</a>|$O(LogN)$|$O(1)$
-|Round and Round|https://www.codewars.com/kata/5996eb39cdc8eb39f80000a0|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/RoundAndRound.java'>Round and Round</a>|$not specified$|$not specified$
-|Sum of Digits / Digital Root|https://www.codewars.com/kata/541c8630095125aba6000c00|<a href='https://github.com/savra/codewars.com/tree/master/src/main/java/com/hvdbs/codewars/solution/java/SumOfDigitsDigitalRoot.java'>Sum of Digits / Digital Root</a>|$LogN$|$O(1)$
 </details>
